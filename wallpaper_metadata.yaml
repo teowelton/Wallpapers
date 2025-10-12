@@ -1,0 +1,950 @@
+themes:
+  - "Catppuccin Mocha"
+  - "Catppuccin Macchiato"
+  - "Catppuccin Frappe"
+  - "Nord"
+
+categories:
+  - "Kurzgesagt"
+  - "Space"
+  - "Pixel Art"
+  - "Scenery"
+  - "Night"
+  - "Stars"
+  - "Studio Ghibli"
+
+wallpapers:
+  # ==================== UNTHEMED ==================== #
+  - path: "unthemed/Eternity.png"
+    resolution: "1080p (1920 x 1080)"
+    categories: ["Scenery", "Space"]
+    artist:
+      name: Alena Aenami
+      profile_links:
+        youtube: "https://www.youtube.com/@AenamiArt"
+        twitter: "https://x.com/aenami_art"
+        instagram: "https://www.instagram.com/aenami.art"
+        art_station: "https://www.artstation.com/aenamiart"
+    source: "https://www.artstation.com/artwork/9eKmBN"
+  - path: "unthemed/Great_Wave_Off_Kanagawa.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Scenery"]
+    artist:
+      name: Katsushika Hokusai
+    source: "https://www.reddit.com/r/wallpaper/comments/wxp2s8/3840x2160_the_great_wave_off_kanagawa/"
+  - path: "unthemed/Japanese_Lofi.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Scenery"]
+    artist:
+      name: "Christian Benavides (Voyager)"
+      profile_links:
+        website: "https://voyagerillustration.com/"
+        youtube: "https://www.youtube.com/channel/UCAwFY9X_Yef4fprw0KOT2eA"
+        instagram: "https://www.instagram.com/voyager_spirit"
+        art_station: "https://www.artstation.com/voyagerillustration"
+    source: "https://www.artstation.com/artwork/EaDPkK?album_id=223117"
+  - path: "unthemed/Mellow_Dreams_3.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Scenery"]
+    artist:
+      name: "Christian Benavides (Voyager)"
+      profile_links:
+        website: "https://voyagerillustration.com/"
+        youtube: "https://www.youtube.com/channel/UCAwFY9X_Yef4fprw0KOT2eA"
+        instagram: "https://www.instagram.com/voyager_spirit"
+        art_station: "https://www.artstation.com/voyagerillustration"
+    source: "https://www.artstation.com/artwork/d0dGPe"
+  - path: "unthemed/Midnight_Gazing.png"
+    resolution: "4096 x 2303"
+    categories: ["Night", "Stars", "Scenery"]
+    artist:
+      name: "Denis Istomin"
+      profile_links:
+        twitter: "https://twitter.com/Denis_Istomin_"
+        instagram: "https://www.instagram.com/istomin__denis/"
+        deviant_art: "https://www.deviantart.com/gydw1n"
+        art_station: "https://www.artstation.com/istomin_denis"
+    source: "https://x.com/lofigirl/status/1361449451609612290"
+  - path: "unthemed/Night.png"
+    resolution: "1920 x 960"
+    categories: ["Pixel Art", "Night", "Scenery"]
+    artist:
+      name: "Waneella"
+      profile_links:
+        website: "https://waneella.com/"
+        youtube: "https://www.youtube.com/channel/UCJyV7YEJlNU4921lzK645rg"
+        twitter: "https://x.com/waneella_"
+        instagram: "https://www.instagram.com/waneella/"
+    source: "https://www.youtube.com/watch?v=VnCj6UV9Kas"
+  - path: "unthemed/Rooftop.gif"
+    resolution: "1500 x 900"
+    categories: ["Pixel Art", "Scenery"]
+    artist:
+      name: "Waneella"
+      profile_links:
+        website: "https://waneella.com/"
+        youtube: "https://www.youtube.com/channel/UCJyV7YEJlNU4921lzK645rg"
+        twitter: "https://x.com/waneella_"
+        instagram: "https://www.instagram.com/waneella/"
+    source: "https://www.reddit.com/r/PixelArt/comments/w55974/pixel_city_art_by_waneella/"
+  - path: "unthemed/S_P_A_C_E.png"
+    resolution: "5K (5120 x 2880)"
+    categories: ["Space"]
+    artist:
+      name: "Nibroo"
+      profile_links:
+        reddit: "https://www.reddit.com/user/Nibroo/"
+    source: "https://www.reddit.com/r/wallpaper/comments/hea55o/s_p_a_c_e_5120x2880/"
+  - path: "unthemed/Sound_Asleep.png"
+    resolution: "4096 x 2294"
+    categories: ["Night", "Scenery"]
+    artist:
+      name: "Denis Istomin"
+      profile_links:
+        twitter: "https://twitter.com/Denis_Istomin_"
+        instagram: "https://www.instagram.com/istomin__denis/"
+        deviant_art: "https://www.deviantart.com/gydw1n"
+        art_station: "https://www.artstation.com/istomin_denis"
+    source: "https://x.com/lofigirl/status/1261043544141242369"
+  - path: "unthemed/Stardust.png"
+    resolution: "1080p (1920 x 1080)"
+    categories: ["Night", "Stars", "Scenery"]
+    artist:
+      name: Alena Aenami
+      profile_links:
+        youtube: "https://www.youtube.com/@AenamiArt"
+        twitter: "https://x.com/aenami_art"
+        instagram: "https://www.instagram.com/aenami.art"
+        art_station: "https://www.artstation.com/aenamiart"
+    source: "https://www.artstation.com/artwork/4Xa124"
+  - path: "unthemed/Summer_Nights.png"
+    resolution: "4096 x 2303"
+    categories: ["Night", "Stars", "Scenery"]
+    artist:
+      name: "Denis Istomin"
+      profile_links:
+        twitter: "https://twitter.com/Denis_Istomin_"
+        instagram: "https://www.instagram.com/istomin__denis/"
+        deviant_art: "https://www.deviantart.com/gydw1n"
+        art_station: "https://www.artstation.com/istomin_denis"
+    source: "https://x.com/lofigirl/status/1282077431126470659"
+  - path: "unthemed/Wondering.png"
+    resolution: "4096 x 2303"
+    categories: ["Scenery", "Night"]
+    artist:
+      name: Klegs
+      profile_links:
+        twitter: "https://x.com/klegsart"
+        instagram: "https://www.instagram.com/klegsart/"
+        deviant_art: "https://www.deviantart.com/klegs"
+    source: "https://x.com/lofigirl/status/1262452964045840384"
+
+  # ===== GHIBLI ===== #
+  - path: "unthemed/ghibli/Arrietty.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli", "Scenery"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Castle_in_the_Sky_Laputa.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli", "Scenery"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Castle_in_the_Sky_Robot.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Howls_Moving_Castle_Flying.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli", "Scenery"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Howls_Moving_Castle_Wastes.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli", "Scenery"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/My_Neighbor_Totoro_Bus_Stop.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Princess_Mononoke_Kodama.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli", "Scenery"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Spirited_Away_Bathhouse.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli", "Scenery"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Spirited_Away_Soot_Sprites.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+  - path: "unthemed/ghibli/Spirited_Away_Train.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Studio Ghibli", "Scenery"]
+    artist:
+      name: Studio Ghibli
+      profile_links:
+        website: "https://www.ghibli.jp/"
+    source: "https://www.reddit.com/r/ghibli/comments/q3ujwj/ghibli_screengrab_collection_4k/"
+
+  # ===== KURZGESAGT ===== #
+  - path: "unthemed/kurzgesagt/Alien_Clouds.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Asteroid_Miner_1.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Asteroid_Miner_2.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Asteroid_Miner_3.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Asteroids.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Baby_Star.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Black_Hole_1.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Black_Hole_2.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Black_Hole_3.png"
+    resolution: "4K (3840 x 2160)"
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Cloudy_Quasar_1.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Cloudy_Quasar_2.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Contemplative_Cosmonaut_1.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Contemplative_Cosmonaut_2.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Contemplative_Cosmonaut_3.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Contemplative_Cosmonaut_4.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Cosmic_Islands.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Dyson_Sphere.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Fleet.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Galaxies.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Galaxy_1.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Galaxy_2.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Galaxy_3.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Mars.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/On_A_Moon.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Ringed_Earth.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Satellite_Over_Earth.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Solar_System.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Stars.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Stellar_Phenomenon.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+  - path: "unthemed/kurzgesagt/Unknown_Lifeform.png"
+    resolution: "4K (3840 x 2160)"
+    categories: ["Kurzgesagt", "Space"]
+    artist:
+      name: "Kurzgesagt – In a Nutshell"
+      profile_links:
+        website: "https://kurzgesagt.org/"
+        youtube: "https://www.youtube.com/user/Kurzgesagt"
+        twitter: "https://twitter.com/Kurz_Gesagt"
+        instagram: "https://www.instagram.com/kurzgesagt/"
+    source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+
+  # ==================== CATPPUCCIN ==================== #
+  # ========== Macchiato ========== #
+  - path: "catppuccin/macchiato/Great_Wave_Off_Kanagawa-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/Great_Wave_Off_Kanagawa.png"
+  - path: "catppuccin/macchiato/Night-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/Night.png"
+  - path: "catppuccin/macchiato/S_P_A_C_E-Catppuccin_Macchiato.png"
+    resolution: "5K (5120 x 2880)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/S_P_A_C_E.png"
+
+  # ===== Kurzgesagt ===== #
+  - path: "catppuccin/macchiato/kurzgesagt/Alien_Clouds-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Alien_Clouds.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Asteroid_Miner_1-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_1.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Asteroid_Miner_2-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_2.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Asteroid_Miner_3-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_3.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Asteroids-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Asteroids.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Baby_Star-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Baby_Star.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Black_Hole_1-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_1.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Black_Hole_2-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_2.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Black_Hole_3-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_3.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Cloudy_Quasar_1.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Cloudy_Quasar_3.png"
+  - path: "catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_1"
+  - path: "catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_2"
+  - path: "catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_3"
+  - path: "catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_4"
+  - path: "catppuccin/macchiato/kurzgesagt/Cosmic_Islands-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Cosmic_Islands"
+  - path: "catppuccin/macchiato/kurzgesagt/Dyson_Sphere-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Dyson_Sphere"
+  - path: "catppuccin/macchiato/kurzgesagt/Fleet-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Fleet"
+  - path: "catppuccin/macchiato/kurzgesagt/Galaxies-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Galaxies"
+  - path: "catppuccin/macchiato/kurzgesagt/Galaxy_1-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_1"
+  - path: "catppuccin/macchiato/kurzgesagt/Galaxy_2-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_2"
+  - path: "catppuccin/macchiato/kurzgesagt/Galaxy_3-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_3"
+  - path: "catppuccin/macchiato/kurzgesagt/Mars-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Mars"
+  - path: "catppuccin/macchiato/kurzgesagt/On_A_Moon-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/On_A_Moon"
+  - path: "catppuccin/macchiato/kurzgesagt/Satellite_Over_Earth-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Satellite_Over_Earth"
+  - path: "catppuccin/macchiato/kurzgesagt/Solar_System-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Solar_System"
+  - path: "catppuccin/macchiato/kurzgesagt/Stars-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Stars"
+  - path: "catppuccin/macchiato/kurzgesagt/Stellar_Phenomenon-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Stellar_Phenomenon"
+  - path: "catppuccin/macchiato/kurzgesagt/Unknown_Lifeform-Catppuccin_Macchiato.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Macchiato"
+    original_artwork: "unthemed/kurzgesagt/Unknown_Lifeform"
+
+  # ========== Mocha ========== #
+  - path: "catppuccin/mocha/Great_Wave_Off_Kanagawa-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/Great_Wave_Off_Kanagawa.png"
+  - path: "catppuccin/mocha/Night-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/Night.png"
+  - path: "catppuccin/mocha/S_P_A_C_E-Catppuccin_Mocha.png"
+    resolution: "5K (5120 x 2880)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/S_P_A_C_E.png"
+
+  # ===== Kurzgesagt ===== #
+  - path: "catppuccin/mocha/kurzgesagt/Alien_Clouds-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Alien_Clouds.png"
+  - path: "catppuccin/mocha/kurzgesagt/Asteroid_Miner_1-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_1.png"
+  - path: "catppuccin/mocha/kurzgesagt/Asteroid_Miner_2-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_2.png"
+  - path: "catppuccin/mocha/kurzgesagt/Asteroid_Miner_3-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_3.png"
+  - path: "catppuccin/mocha/kurzgesagt/Asteroids-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Asteroids.png"
+  - path: "catppuccin/mocha/kurzgesagt/Baby_Star-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Baby_Star.png"
+  - path: "catppuccin/mocha/kurzgesagt/Black_Hole_1-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_1.png"
+  - path: "catppuccin/mocha/kurzgesagt/Black_Hole_2-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_2.png"
+  - path: "catppuccin/mocha/kurzgesagt/Black_Hole_3-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_3.png"
+  - path: "catppuccin/mocha/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Cloudy_Quasar_1.png"
+  - path: "catppuccin/mocha/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Cloudy_Quasar_3.png"
+  - path: "catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_1"
+  - path: "catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_2"
+  - path: "catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_3"
+  - path: "catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_4"
+  - path: "catppuccin/mocha/kurzgesagt/Cosmic_Islands-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Cosmic_Islands"
+  - path: "catppuccin/mocha/kurzgesagt/Dyson_Sphere-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Dyson_Sphere"
+  - path: "catppuccin/mocha/kurzgesagt/Fleet-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Fleet"
+  - path: "catppuccin/mocha/kurzgesagt/Galaxies-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Galaxies"
+  - path: "catppuccin/mocha/kurzgesagt/Galaxy_1-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_1"
+  - path: "catppuccin/mocha/kurzgesagt/Galaxy_2-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_2"
+  - path: "catppuccin/mocha/kurzgesagt/Galaxy_3-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_3"
+  - path: "catppuccin/mocha/kurzgesagt/Mars-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Mars"
+  - path: "catppuccin/mocha/kurzgesagt/On_A_Moon-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/On_A_Moon"
+  - path: "catppuccin/mocha/kurzgesagt/Satellite_Over_Earth-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Satellite_Over_Earth"
+  - path: "catppuccin/mocha/kurzgesagt/Solar_System-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Solar_System"
+  - path: "catppuccin/mocha/kurzgesagt/Stars-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Stars"
+  - path: "catppuccin/mocha/kurzgesagt/Stellar_Phenomenon-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Stellar_Phenomenon"
+  - path: "catppuccin/mocha/kurzgesagt/Unknown_Lifeform-Catppuccin_Mocha.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Catppuccin Mocha"
+    original_artwork: "unthemed/kurzgesagt/Unknown_Lifeform"
+
+  # ========== Nord ========== #
+  - path: "nord/Great_Wave_Off_Kanagawa-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/Great_Wave_Off_Kanagawa.png"
+  - path: "nord/Night-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/Night.png"
+  - path: "nord/S_P_A_C_E-Nord.png"
+    resolution: "5K (5120 x 2880)"
+    theme: "Nord"
+    original_artwork: "unthemed/S_P_A_C_E.png"
+
+  # ===== Kurzgesagt ===== #
+  - path: "nord/kurzgesagt/Alien_Clouds-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Alien_Clouds.png"
+  - path: "nord/kurzgesagt/Asteroid_Miner_1-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_1.png"
+  - path: "nord/kurzgesagt/Asteroid_Miner_2-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_2.png"
+  - path: "nord/kurzgesagt/Asteroid_Miner_3-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Asteroid_Miner_3.png"
+  - path: "nord/kurzgesagt/Asteroids-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Asteroids.png"
+  - path: "nord/kurzgesagt/Baby_Star-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Baby_Star.png"
+  - path: "nord/kurzgesagt/Black_Hole_1-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_1.png"
+  - path: "nord/kurzgesagt/Black_Hole_2-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_2.png"
+  - path: "nord/kurzgesagt/Black_Hole_3-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Black_Hole_3.png"
+  - path: "nord/kurzgesagt/Cloudy_Quasar_1-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Cloudy_Quasar_1.png"
+  - path: "nord/kurzgesagt/Cloudy_Quasar_2-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Cloudy_Quasar_3.png"
+  - path: "nord/kurzgesagt/Contemplative_Cosmonaut_1-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_1"
+  - path: "nord/kurzgesagt/Contemplative_Cosmonaut_2-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_2"
+  - path: "nord/kurzgesagt/Contemplative_Cosmonaut_3-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_3"
+  - path: "nord/kurzgesagt/Contemplative_Cosmonaut_4-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Contemplative_Cosmonaut_4"
+  - path: "nord/kurzgesagt/Cosmic_Islands-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Cosmic_Islands"
+  - path: "nord/kurzgesagt/Dyson_Sphere-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Dyson_Sphere"
+  - path: "nord/kurzgesagt/Fleet-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Fleet"
+  - path: "nord/kurzgesagt/Galaxies-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Galaxies"
+  - path: "nord/kurzgesagt/Galaxy_1-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_1"
+  - path: "nord/kurzgesagt/Galaxy_2-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_2"
+  - path: "nord/kurzgesagt/Galaxy_3-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Galaxy_3"
+  - path: "nord/kurzgesagt/Mars-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Mars"
+  - path: "nord/kurzgesagt/On_A_Moon-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/On_A_Moon"
+  - path: "nord/kurzgesagt/Satellite_Over_Earth-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Satellite_Over_Earth"
+  - path: "nord/kurzgesagt/Solar_System-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Solar_System"
+  - path: "nord/kurzgesagt/Stars-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Stars"
+  - path: "nord/kurzgesagt/Stellar_Phenomenon-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Stellar_Phenomenon"
+  - path: "nord/kurzgesagt/Unknown_Lifeform-Nord.png"
+    resolution: "4K (3840 x 2160)"
+    theme: "Nord"
+    original_artwork: "unthemed/kurzgesagt/Unknown_Lifeform"
