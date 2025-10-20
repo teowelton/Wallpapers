@@ -52,7 +52,7 @@ def generate_wallpaper_entry(wallpaper):
         entry = [
             file_path,
             display_name,
-            f"#{file_name.lower().replace('-', '---').replace('_', '-')}",
+            f"#{file_name.lower().replace('-', '---').replace('_', '-').replace('&', '')}",
         ]
         themes_dict[theme].append(entry)
 
@@ -65,7 +65,7 @@ def generate_wallpaper_entry(wallpaper):
         entry = [
             file_path,
             display_name,
-            f"#{file_name.lower().replace('-', '---').replace('_', '-')}",
+            f"#{file_name.lower().replace('-', '---').replace('_', '-').replace('&', '')}",
         ]
         for category in categories:
             categories_dict[category].append(entry)
@@ -132,7 +132,10 @@ def generate_wallpaper_entry(wallpaper):
     if original_art and original_art.strip():
         original_art_file_name = os.path.splitext(os.path.basename(original_art))[0]
         original_art_wallpaper_entry = (
-            original_art_file_name.lower().replace("-", "---").replace("_", "-")
+            original_art_file_name.lower()
+            .replace("-", "---")
+            .replace("_", "-")
+            .replace("&", "")
         )
         content += f"- *This wallpaper is a color-shifted version of [this original artwork](#{original_art_wallpaper_entry}). All artist details can be found at the original artwork.*\n"
 

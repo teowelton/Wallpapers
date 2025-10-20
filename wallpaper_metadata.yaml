@@ -12,6 +12,8 @@ categories:
   - "Night"
   - "Stars"
   - "Studio Ghibli"
+  - "Spider-Verse"
+  - "Skyline"
 
 wallpapers:
   # ==================== UNTHEMED ==================== #
@@ -551,6 +553,56 @@ wallpapers:
         twitter: "https://twitter.com/Kurz_Gesagt"
         instagram: "https://www.instagram.com/kurzgesagt/"
     source: "https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/"
+
+  # ===== SPIDER-VERSE ===== #
+  - path: "unthemed/spider_verse/Across_the_Spider_Verse-Bank_Building.png"
+    resolution: "3840 x 1600"
+    categories: ["Spider-Verse", "Skyline"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
+  - path: "unthemed/spider_verse/Across_the_Spider_Verse-Gwen_Walking.png"
+    resolution: "3840 x 1600"
+    categories: ["Spider-Verse"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
+  - path: "unthemed/spider_verse/Across_the_Spider_Verse-Miles_&_Gwen_Upside_Down_Skyline.png"
+    resolution: "3840 x 1600"
+    categories: ["Spider-Verse", "Skyline"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
+  - path: "unthemed/spider_verse/Across_the_Spider_Verse-New_York_Skyline.png"
+    resolution: "3840 x 1600"
+    categories: ["Spider-Verse", "Skyline"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
+  - path: "unthemed/spider_verse/Across_the_Spider_Verse-Spider_Gwen_Swinging.png"
+    resolution: "3840 x 1600"
+    categories: ["Spider-Verse"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
+  - path: "unthemed/spider_verse/Across_the_Spider_Verse-Watercolour_Skyline.png"
+    resolution: "3840 x 1600"
+    categories: ["Spider-Verse", "Skyline", "Night"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
+  - path: "unthemed/spider_verse/Into_the_Spider_Verse-Brooklyn_Skyline.png"
+    resolution: "3840 x 1608"
+    categories: ["Spider-Verse", "Skyline", "Night"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
+  - path: "unthemed/spider_verse/Into_the_Spider_Verse-Leap_of_Faith.png"
+    resolution: "3840 x 1608"
+    categories: ["Spider-Verse", "Night", "Skyline"]
+    artist:
+      name: "Sony Pictures Animation"
+    source: "https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/"
 
   # ==================== CATPPUCCIN ==================== #
   # ========== Macchiato ========== #

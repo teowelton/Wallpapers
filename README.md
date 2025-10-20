@@ -137,6 +137,9 @@ My personal collection of wallpapers, with as many credited artists as possible,
 | ![Stardust](unthemed/Stardust.png) | [Stardust (Click for Details)](#stardust) |
 | ![Summer Nights](unthemed/Summer_Nights.png) | [Summer Nights (Click for Details)](#summer-nights) |
 | ![Wondering](unthemed/Wondering.png) | [Wondering (Click for Details)](#wondering) |
+| ![Across the Spider Verse - Watercolour Skyline](unthemed/spider_verse/Across_the_Spider_Verse-Watercolour_Skyline.png) | [Across the Spider Verse - Watercolour Skyline (Click for Details)](#across-the-spider-verse---watercolour-skyline) |
+| ![Into the Spider Verse - Brooklyn Skyline](unthemed/spider_verse/Into_the_Spider_Verse-Brooklyn_Skyline.png) | [Into the Spider Verse - Brooklyn Skyline (Click for Details)](#into-the-spider-verse---brooklyn-skyline) |
+| ![Into the Spider Verse - Leap of Faith](unthemed/spider_verse/Into_the_Spider_Verse-Leap_of_Faith.png) | [Into the Spider Verse - Leap of Faith (Click for Details)](#into-the-spider-verse---leap-of-faith) |
 
 </details>
 
@@ -164,6 +167,34 @@ My personal collection of wallpapers, with as many credited artists as possible,
 | ![Spirited Away Bathhouse](unthemed/ghibli/Spirited_Away_Bathhouse.png) | [Spirited Away Bathhouse (Click for Details)](#spirited-away-bathhouse) |
 | ![Spirited Away Soot Sprites](unthemed/ghibli/Spirited_Away_Soot_Sprites.png) | [Spirited Away Soot Sprites (Click for Details)](#spirited-away-soot-sprites) |
 | ![Spirited Away Train](unthemed/ghibli/Spirited_Away_Train.png) | [Spirited Away Train (Click for Details)](#spirited-away-train) |
+
+</details>
+
+<details><summary>Spider-Verse</summary>
+
+| Preview | Wallpaper |
+|---------|-----------|
+| ![Across the Spider Verse - Bank Building](unthemed/spider_verse/Across_the_Spider_Verse-Bank_Building.png) | [Across the Spider Verse - Bank Building (Click for Details)](#across-the-spider-verse---bank-building) |
+| ![Across the Spider Verse - Gwen Walking](unthemed/spider_verse/Across_the_Spider_Verse-Gwen_Walking.png) | [Across the Spider Verse - Gwen Walking (Click for Details)](#across-the-spider-verse---gwen-walking) |
+| ![Across the Spider Verse - Miles & Gwen Upside Down Skyline](unthemed/spider_verse/Across_the_Spider_Verse-Miles_&_Gwen_Upside_Down_Skyline.png) | [Across the Spider Verse - Miles & Gwen Upside Down Skyline (Click for Details)](#across-the-spider-verse---miles--gwen-upside-down-skyline) |
+| ![Across the Spider Verse - New York Skyline](unthemed/spider_verse/Across_the_Spider_Verse-New_York_Skyline.png) | [Across the Spider Verse - New York Skyline (Click for Details)](#across-the-spider-verse---new-york-skyline) |
+| ![Across the Spider Verse - Spider Gwen Swinging](unthemed/spider_verse/Across_the_Spider_Verse-Spider_Gwen_Swinging.png) | [Across the Spider Verse - Spider Gwen Swinging (Click for Details)](#across-the-spider-verse---spider-gwen-swinging) |
+| ![Across the Spider Verse - Watercolour Skyline](unthemed/spider_verse/Across_the_Spider_Verse-Watercolour_Skyline.png) | [Across the Spider Verse - Watercolour Skyline (Click for Details)](#across-the-spider-verse---watercolour-skyline) |
+| ![Into the Spider Verse - Brooklyn Skyline](unthemed/spider_verse/Into_the_Spider_Verse-Brooklyn_Skyline.png) | [Into the Spider Verse - Brooklyn Skyline (Click for Details)](#into-the-spider-verse---brooklyn-skyline) |
+| ![Into the Spider Verse - Leap of Faith](unthemed/spider_verse/Into_the_Spider_Verse-Leap_of_Faith.png) | [Into the Spider Verse - Leap of Faith (Click for Details)](#into-the-spider-verse---leap-of-faith) |
+
+</details>
+
+<details><summary>Skyline</summary>
+
+| Preview | Wallpaper |
+|---------|-----------|
+| ![Across the Spider Verse - Bank Building](unthemed/spider_verse/Across_the_Spider_Verse-Bank_Building.png) | [Across the Spider Verse - Bank Building (Click for Details)](#across-the-spider-verse---bank-building) |
+| ![Across the Spider Verse - Miles & Gwen Upside Down Skyline](unthemed/spider_verse/Across_the_Spider_Verse-Miles_&_Gwen_Upside_Down_Skyline.png) | [Across the Spider Verse - Miles & Gwen Upside Down Skyline (Click for Details)](#across-the-spider-verse---miles--gwen-upside-down-skyline) |
+| ![Across the Spider Verse - New York Skyline](unthemed/spider_verse/Across_the_Spider_Verse-New_York_Skyline.png) | [Across the Spider Verse - New York Skyline (Click for Details)](#across-the-spider-verse---new-york-skyline) |
+| ![Across the Spider Verse - Watercolour Skyline](unthemed/spider_verse/Across_the_Spider_Verse-Watercolour_Skyline.png) | [Across the Spider Verse - Watercolour Skyline (Click for Details)](#across-the-spider-verse---watercolour-skyline) |
+| ![Into the Spider Verse - Brooklyn Skyline](unthemed/spider_verse/Into_the_Spider_Verse-Brooklyn_Skyline.png) | [Into the Spider Verse - Brooklyn Skyline (Click for Details)](#into-the-spider-verse---brooklyn-skyline) |
+| ![Into the Spider Verse - Leap of Faith](unthemed/spider_verse/Into_the_Spider_Verse-Leap_of_Faith.png) | [Into the Spider Verse - Leap of Faith (Click for Details)](#into-the-spider-verse---leap-of-faith) |
 
 </details>
 
@@ -855,6 +886,86 @@ My personal collection of wallpapers, with as many credited artists as possible,
 - **Artist:** Kurzgesagt – In a Nutshell
 	- **Profile Links:** [*Website*](https://kurzgesagt.org/) | [*YouTube*](https://www.youtube.com/user/Kurzgesagt) | [*Twitter*](https://twitter.com/Kurz_Gesagt) | [*Instagram*](https://www.instagram.com/kurzgesagt/)
 - **Source:** [reddit.com](https://www.reddit.com/r/kurzgesagt/comments/15pvf7h/kurzgesagt_4k_wallpapers_3840x2160/)
+
+---
+
+### Across the Spider Verse - Bank Building
+
+![Across_the_Spider_Verse-Bank_Building](unthemed/spider_verse/Across_the_Spider_Verse-Bank_Building.png)
+- **Resolution:** 3840 x 1600
+- **Categories:** `Spider-Verse` `Skyline`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
+
+---
+
+### Across the Spider Verse - Gwen Walking
+
+![Across_the_Spider_Verse-Gwen_Walking](unthemed/spider_verse/Across_the_Spider_Verse-Gwen_Walking.png)
+- **Resolution:** 3840 x 1600
+- **Categories:** `Spider-Verse`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
+
+---
+
+### Across the Spider Verse - Miles & Gwen Upside Down Skyline
+
+![Across_the_Spider_Verse-Miles_&_Gwen_Upside_Down_Skyline](unthemed/spider_verse/Across_the_Spider_Verse-Miles_&_Gwen_Upside_Down_Skyline.png)
+- **Resolution:** 3840 x 1600
+- **Categories:** `Spider-Verse` `Skyline`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
+
+---
+
+### Across the Spider Verse - New York Skyline
+
+![Across_the_Spider_Verse-New_York_Skyline](unthemed/spider_verse/Across_the_Spider_Verse-New_York_Skyline.png)
+- **Resolution:** 3840 x 1600
+- **Categories:** `Spider-Verse` `Skyline`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
+
+---
+
+### Across the Spider Verse - Spider Gwen Swinging
+
+![Across_the_Spider_Verse-Spider_Gwen_Swinging](unthemed/spider_verse/Across_the_Spider_Verse-Spider_Gwen_Swinging.png)
+- **Resolution:** 3840 x 1600
+- **Categories:** `Spider-Verse`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
+
+---
+
+### Across the Spider Verse - Watercolour Skyline
+
+![Across_the_Spider_Verse-Watercolour_Skyline](unthemed/spider_verse/Across_the_Spider_Verse-Watercolour_Skyline.png)
+- **Resolution:** 3840 x 1600
+- **Categories:** `Spider-Verse` `Skyline` `Night`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
+
+---
+
+### Into the Spider Verse - Brooklyn Skyline
+
+![Into_the_Spider_Verse-Brooklyn_Skyline](unthemed/spider_verse/Into_the_Spider_Verse-Brooklyn_Skyline.png)
+- **Resolution:** 3840 x 1608
+- **Categories:** `Spider-Verse` `Skyline` `Night`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
+
+---
+
+### Into the Spider Verse - Leap of Faith
+
+![Into_the_Spider_Verse-Leap_of_Faith](unthemed/spider_verse/Into_the_Spider_Verse-Leap_of_Faith.png)
+- **Resolution:** 3840 x 1608
+- **Categories:** `Spider-Verse` `Night` `Skyline`
+- **Artist:** Sony Pictures Animation
+- **Source:** [reddit.com](https://www.reddit.com/r/IntoTheSpiderverse/comments/15t18ri/i_took_over_8000_4k_screenshots_of_across_the/)
 
 ---
 
