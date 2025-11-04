@@ -13,36 +13,89 @@ def load_metadata():
 
 def generate_thumbnails():
     directories = ["unthemed", "catppuccin", "nord"]
+    max_file_size = 1024 * 1024  # 1 MiB in bytes
 
     for directory in directories:
-        for root, dirs, files in os.walk(directory):
+        if not os.path.exists(directory):
+            continue
+
+        # Recursively get all image files
+        for root, _, files in os.walk(directory):
             for file in files:
-                file_path = os.path.join(root, file)
-                base_name = os.path.splitext(file_path)[0]
+                if file.lower().endswith((".png", ".jpg", ".jpeg", ".gif")):
+                    file_path = os.path.join(root, file)
 
-                if file_path.lower().endswith(".gif"):
-                    thumbnail_path = f"./thumbnails/{base_name}.gif"
-                else:
-                    thumbnail_path = f"./thumbnails/{base_name}.jpg"
-
-                if not os.path.exists(thumbnail_path):
-                    # Create the directory structure if it doesn't exist
-                    thumbnail_dir = os.path.dirname(thumbnail_path)
+                    # Create thumbnail path
+                    thumbnail_dir = os.path.join("thumbnails", root)
                     os.makedirs(thumbnail_dir, exist_ok=True)
 
-                    subprocess.run(
-                        [
-                            "magick",
-                            file_path,
-                            "-resize",
-                            "50%",
-                            "-quality",
-                            "85",
-                            thumbnail_path,
-                        ]
-                    )
-                else:
-                    print(f"Thumbnail already exists for {file_path}")
+                    # Determine output format
+                    if file.lower().endswith(".gif"):
+                        thumbnail_path = os.path.join(thumbnail_dir, file)
+                    else:
+                        # Change extension to .jpg
+                        base_name = os.path.splitext(file)[0]
+                        thumbnail_path = os.path.join(thumbnail_dir, base_name + ".jpg")
+
+                    # Get original dimensions
+                    try:
+                        result = subprocess.run(
+                            ["magick", "identify", "-format", "%w %h", file_path],
+                            capture_output=True,
+                            text=True,
+                            check=True,
+                        )
+                        width, height = map(int, result.stdout.strip().split())
+                    except (subprocess.CalledProcessError, ValueError):
+                        print(f"Error: Could not get dimensions for {file_path}")
+                        continue
+
+                    # Start with original dimensions and reduce until file size is acceptable
+                    current_width, current_height = width, height
+                    scale_factor = 0.9  # Reduce by 10% each iteration
+
+                    while current_width > 1 and current_height > 1:
+                        try:
+                            # Create temporary file to test size
+                            temp_path = thumbnail_path
+
+                            # Resize image with quality setting (works for all formats)
+                            subprocess.run(
+                                [
+                                    "magick",
+                                    file_path,
+                                    "-resize",
+                                    f"{int(current_width)}x{int(current_height)}",
+                                    "-quality",
+                                    "95",
+                                    thumbnail_path,
+                                ],
+                                check=True,
+                                capture_output=True,
+                            )
+
+                            # Check file size
+                            if os.path.getsize(thumbnail_path) <= max_file_size:
+                                # File size is acceptable
+                                print(
+                                    f"Generated thumbnail {thumbnail_path} with file size {os.path.getsize(thumbnail_path) / 1024:.2f} KiB"
+                                )
+                                break
+                            else:
+                                # File too large, reduce dimensions and try again
+                                os.remove(thumbnail_path)
+                                current_width *= scale_factor
+                                current_height *= scale_factor
+
+                        except subprocess.CalledProcessError as e:
+                            print(f"Error processing {file_path}: {e}")
+                            if os.path.exists(temp_path):
+                                os.remove(temp_path)
+                            break
+                    else:
+                        print(
+                            f"Warning: Could not reduce {file_path} to acceptable size"
+                        )
 
 
 def generate_wallpaper_entry(wallpaper):
