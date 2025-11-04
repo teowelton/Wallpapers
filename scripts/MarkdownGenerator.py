@@ -187,7 +187,9 @@ My personal collection of wallpapers, with as many credited artists as possible,
     category_content = "## Categories\n\n"
     for category, entries in categories_dict.items():
         if entries:  # Only include categories with entries
-            category_content += f"<details><summary>{category}</summary>\n\n"
+            category_content += (
+                f"<details><summary>{category} (Click to Expand)</summary>\n\n"
+            )
             category_content += "| Preview | Wallpaper |\n"
             category_content += "|---------|-----------|\n"
             for entry in entries:

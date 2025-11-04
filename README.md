@@ -19,7 +19,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ## Categories
 
-<details><summary>Kurzgesagt</summary>
+<details><summary>Kurzgesagt (Click to Expand)</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -55,7 +55,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Space</summary>
+<details><summary>Space (Click to Expand)</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -93,7 +93,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Pixel Art</summary>
+<details><summary>Pixel Art (Click to Expand)</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -102,7 +102,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Scenery</summary>
+<details><summary>Scenery (Click to Expand)</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -127,7 +127,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Night</summary>
+<details><summary>Night (Click to Expand)</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -140,7 +140,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Stars</summary>
+<details><summary>Stars (Click to Expand)</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -150,7 +150,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Studio Ghibli</summary>
+<details><summary>Studio Ghibli (Click to Expand)</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
