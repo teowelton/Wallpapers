@@ -1,8 +1,6 @@
 # Wallpapers
 My personal collection of wallpapers, with as many credited artists as possible, and ***NO AI ART***
 
-**Sorry for the current slow speed of loading images on the README! Working on a small downscaling script! :3**
-
 ---
 
 > **This Readme is auto-generated from `wallpaper_metadata.yml`. You can view the generator code in `scripts/MarkdownGenerator.py`**
@@ -290,7 +288,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Eternity
 
-![Eternity](unthemed/Eternity.png)
+[![Eternity](./thumbnails/unthemed/Eternity.jpg)](unthemed/Eternity.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Eternity.png).
 - **Resolution:** 1080p (1920 x 1080)
 - **Categories:** `Scenery` `Space`
 - **Artist:** Alena Aenami
@@ -301,7 +300,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Great Wave Off Kanagawa
 
-![Great_Wave_Off_Kanagawa](unthemed/Great_Wave_Off_Kanagawa.png)
+[![Great_Wave_Off_Kanagawa](./thumbnails/unthemed/Great_Wave_Off_Kanagawa.jpg)](unthemed/Great_Wave_Off_Kanagawa.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Great_Wave_Off_Kanagawa.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Scenery`
 - **Artist:** Katsushika Hokusai
@@ -311,7 +311,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Japanese Lofi
 
-![Japanese_Lofi](unthemed/Japanese_Lofi.png)
+[![Japanese_Lofi](./thumbnails/unthemed/Japanese_Lofi.jpg)](unthemed/Japanese_Lofi.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Japanese_Lofi.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Scenery`
 - **Artist:** Christian Benavides (Voyager)
@@ -322,7 +323,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Mellow Dreams 3
 
-![Mellow_Dreams_3](unthemed/Mellow_Dreams_3.png)
+[![Mellow_Dreams_3](./thumbnails/unthemed/Mellow_Dreams_3.jpg)](unthemed/Mellow_Dreams_3.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Mellow_Dreams_3.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Scenery`
 - **Artist:** Christian Benavides (Voyager)
@@ -333,7 +335,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Midnight Gazing
 
-![Midnight_Gazing](unthemed/Midnight_Gazing.png)
+[![Midnight_Gazing](./thumbnails/unthemed/Midnight_Gazing.jpg)](unthemed/Midnight_Gazing.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Midnight_Gazing.png).
 - **Resolution:** 4096 x 2303
 - **Categories:** `Night` `Stars` `Scenery`
 - **Artist:** Denis Istomin
@@ -344,7 +347,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Night
 
-![Night](unthemed/Night.png)
+[![Night](./thumbnails/unthemed/Night.jpg)](unthemed/Night.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Night.png).
 - **Resolution:** 1920 x 960
 - **Categories:** `Pixel Art` `Night` `Scenery`
 - **Artist:** Waneella
@@ -355,7 +359,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Rooftop
 
-![Rooftop](unthemed/Rooftop.gif)
+[![Rooftop](./thumbnails/unthemed/Rooftop.gif)](unthemed/Rooftop.gif)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Rooftop.gif).
 - **Resolution:** 1500 x 900
 - **Categories:** `Pixel Art` `Scenery`
 - **Artist:** Waneella
@@ -366,7 +371,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### S P A C E
 
-![S_P_A_C_E](unthemed/S_P_A_C_E.png)
+[![S_P_A_C_E](./thumbnails/unthemed/S_P_A_C_E.jpg)](unthemed/S_P_A_C_E.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/S_P_A_C_E.png).
 - **Resolution:** 5K (5120 x 2880)
 - **Categories:** `Space`
 - **Artist:** Nibroo
@@ -377,7 +383,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Sound Asleep
 
-![Sound_Asleep](unthemed/Sound_Asleep.png)
+[![Sound_Asleep](./thumbnails/unthemed/Sound_Asleep.jpg)](unthemed/Sound_Asleep.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Sound_Asleep.png).
 - **Resolution:** 4096 x 2294
 - **Categories:** `Night` `Scenery`
 - **Artist:** Denis Istomin
@@ -388,7 +395,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stardust
 
-![Stardust](unthemed/Stardust.png)
+[![Stardust](./thumbnails/unthemed/Stardust.jpg)](unthemed/Stardust.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Stardust.png).
 - **Resolution:** 1080p (1920 x 1080)
 - **Categories:** `Night` `Stars` `Scenery`
 - **Artist:** Alena Aenami
@@ -399,7 +407,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Summer Nights
 
-![Summer_Nights](unthemed/Summer_Nights.png)
+[![Summer_Nights](./thumbnails/unthemed/Summer_Nights.jpg)](unthemed/Summer_Nights.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Summer_Nights.png).
 - **Resolution:** 4096 x 2303
 - **Categories:** `Night` `Stars` `Scenery`
 - **Artist:** Denis Istomin
@@ -410,7 +419,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Wondering
 
-![Wondering](unthemed/Wondering.png)
+[![Wondering](./thumbnails/unthemed/Wondering.jpg)](unthemed/Wondering.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/Wondering.png).
 - **Resolution:** 4096 x 2303
 - **Categories:** `Scenery` `Night`
 - **Artist:** Klegs
@@ -421,7 +431,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Arrietty
 
-![Arrietty](unthemed/ghibli/Arrietty.png)
+[![Arrietty](./thumbnails/unthemed/ghibli/Arrietty.jpg)](unthemed/ghibli/Arrietty.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Arrietty.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli` `Scenery`
 - **Artist:** Studio Ghibli
@@ -432,7 +443,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Castle in the Sky Laputa
 
-![Castle_in_the_Sky_Laputa](unthemed/ghibli/Castle_in_the_Sky_Laputa.png)
+[![Castle_in_the_Sky_Laputa](./thumbnails/unthemed/ghibli/Castle_in_the_Sky_Laputa.jpg)](unthemed/ghibli/Castle_in_the_Sky_Laputa.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Castle_in_the_Sky_Laputa.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli` `Scenery`
 - **Artist:** Studio Ghibli
@@ -443,7 +455,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Castle in the Sky Robot
 
-![Castle_in_the_Sky_Robot](unthemed/ghibli/Castle_in_the_Sky_Robot.png)
+[![Castle_in_the_Sky_Robot](./thumbnails/unthemed/ghibli/Castle_in_the_Sky_Robot.jpg)](unthemed/ghibli/Castle_in_the_Sky_Robot.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Castle_in_the_Sky_Robot.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli`
 - **Artist:** Studio Ghibli
@@ -454,7 +467,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Howls Moving Castle Flying
 
-![Howls_Moving_Castle_Flying](unthemed/ghibli/Howls_Moving_Castle_Flying.png)
+[![Howls_Moving_Castle_Flying](./thumbnails/unthemed/ghibli/Howls_Moving_Castle_Flying.jpg)](unthemed/ghibli/Howls_Moving_Castle_Flying.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Howls_Moving_Castle_Flying.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli` `Scenery`
 - **Artist:** Studio Ghibli
@@ -465,7 +479,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Howls Moving Castle Wastes
 
-![Howls_Moving_Castle_Wastes](unthemed/ghibli/Howls_Moving_Castle_Wastes.png)
+[![Howls_Moving_Castle_Wastes](./thumbnails/unthemed/ghibli/Howls_Moving_Castle_Wastes.jpg)](unthemed/ghibli/Howls_Moving_Castle_Wastes.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Howls_Moving_Castle_Wastes.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli` `Scenery`
 - **Artist:** Studio Ghibli
@@ -476,7 +491,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### My Neighbor Totoro Bus Stop
 
-![My_Neighbor_Totoro_Bus_Stop](unthemed/ghibli/My_Neighbor_Totoro_Bus_Stop.png)
+[![My_Neighbor_Totoro_Bus_Stop](./thumbnails/unthemed/ghibli/My_Neighbor_Totoro_Bus_Stop.jpg)](unthemed/ghibli/My_Neighbor_Totoro_Bus_Stop.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/My_Neighbor_Totoro_Bus_Stop.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli`
 - **Artist:** Studio Ghibli
@@ -487,7 +503,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Princess Mononoke Kodama
 
-![Princess_Mononoke_Kodama](unthemed/ghibli/Princess_Mononoke_Kodama.png)
+[![Princess_Mononoke_Kodama](./thumbnails/unthemed/ghibli/Princess_Mononoke_Kodama.jpg)](unthemed/ghibli/Princess_Mononoke_Kodama.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Princess_Mononoke_Kodama.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli` `Scenery`
 - **Artist:** Studio Ghibli
@@ -498,7 +515,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Spirited Away Bathhouse
 
-![Spirited_Away_Bathhouse](unthemed/ghibli/Spirited_Away_Bathhouse.png)
+[![Spirited_Away_Bathhouse](./thumbnails/unthemed/ghibli/Spirited_Away_Bathhouse.jpg)](unthemed/ghibli/Spirited_Away_Bathhouse.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Spirited_Away_Bathhouse.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli` `Scenery`
 - **Artist:** Studio Ghibli
@@ -509,7 +527,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Spirited Away Soot Sprites
 
-![Spirited_Away_Soot_Sprites](unthemed/ghibli/Spirited_Away_Soot_Sprites.png)
+[![Spirited_Away_Soot_Sprites](./thumbnails/unthemed/ghibli/Spirited_Away_Soot_Sprites.jpg)](unthemed/ghibli/Spirited_Away_Soot_Sprites.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Spirited_Away_Soot_Sprites.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli`
 - **Artist:** Studio Ghibli
@@ -520,7 +539,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Spirited Away Train
 
-![Spirited_Away_Train](unthemed/ghibli/Spirited_Away_Train.png)
+[![Spirited_Away_Train](./thumbnails/unthemed/ghibli/Spirited_Away_Train.jpg)](unthemed/ghibli/Spirited_Away_Train.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/ghibli/Spirited_Away_Train.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Studio Ghibli` `Scenery`
 - **Artist:** Studio Ghibli
@@ -531,7 +551,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Alien Clouds
 
-![Alien_Clouds](unthemed/kurzgesagt/Alien_Clouds.png)
+[![Alien_Clouds](./thumbnails/unthemed/kurzgesagt/Alien_Clouds.jpg)](unthemed/kurzgesagt/Alien_Clouds.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Alien_Clouds.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -542,7 +563,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 1
 
-![Asteroid_Miner_1](unthemed/kurzgesagt/Asteroid_Miner_1.png)
+[![Asteroid_Miner_1](./thumbnails/unthemed/kurzgesagt/Asteroid_Miner_1.jpg)](unthemed/kurzgesagt/Asteroid_Miner_1.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Asteroid_Miner_1.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -553,7 +575,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 2
 
-![Asteroid_Miner_2](unthemed/kurzgesagt/Asteroid_Miner_2.png)
+[![Asteroid_Miner_2](./thumbnails/unthemed/kurzgesagt/Asteroid_Miner_2.jpg)](unthemed/kurzgesagt/Asteroid_Miner_2.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Asteroid_Miner_2.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -564,7 +587,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 3
 
-![Asteroid_Miner_3](unthemed/kurzgesagt/Asteroid_Miner_3.png)
+[![Asteroid_Miner_3](./thumbnails/unthemed/kurzgesagt/Asteroid_Miner_3.jpg)](unthemed/kurzgesagt/Asteroid_Miner_3.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Asteroid_Miner_3.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -575,7 +599,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroids
 
-![Asteroids](unthemed/kurzgesagt/Asteroids.png)
+[![Asteroids](./thumbnails/unthemed/kurzgesagt/Asteroids.jpg)](unthemed/kurzgesagt/Asteroids.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Asteroids.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -586,7 +611,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Baby Star
 
-![Baby_Star](unthemed/kurzgesagt/Baby_Star.png)
+[![Baby_Star](./thumbnails/unthemed/kurzgesagt/Baby_Star.jpg)](unthemed/kurzgesagt/Baby_Star.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Baby_Star.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -597,7 +623,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 1
 
-![Black_Hole_1](unthemed/kurzgesagt/Black_Hole_1.png)
+[![Black_Hole_1](./thumbnails/unthemed/kurzgesagt/Black_Hole_1.jpg)](unthemed/kurzgesagt/Black_Hole_1.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Black_Hole_1.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -608,7 +635,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 2
 
-![Black_Hole_2](unthemed/kurzgesagt/Black_Hole_2.png)
+[![Black_Hole_2](./thumbnails/unthemed/kurzgesagt/Black_Hole_2.jpg)](unthemed/kurzgesagt/Black_Hole_2.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Black_Hole_2.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -619,7 +647,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 3
 
-![Black_Hole_3](unthemed/kurzgesagt/Black_Hole_3.png)
+[![Black_Hole_3](./thumbnails/unthemed/kurzgesagt/Black_Hole_3.jpg)](unthemed/kurzgesagt/Black_Hole_3.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Black_Hole_3.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Artist:** Kurzgesagt – In a Nutshell
 	- **Profile Links:** [*Website*](https://kurzgesagt.org/) | [*YouTube*](https://www.youtube.com/user/Kurzgesagt) | [*Twitter*](https://twitter.com/Kurz_Gesagt) | [*Instagram*](https://www.instagram.com/kurzgesagt/)
@@ -629,7 +658,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 1
 
-![Cloudy_Quasar_1](unthemed/kurzgesagt/Cloudy_Quasar_1.png)
+[![Cloudy_Quasar_1](./thumbnails/unthemed/kurzgesagt/Cloudy_Quasar_1.jpg)](unthemed/kurzgesagt/Cloudy_Quasar_1.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Cloudy_Quasar_1.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -640,7 +670,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 2
 
-![Cloudy_Quasar_2](unthemed/kurzgesagt/Cloudy_Quasar_2.png)
+[![Cloudy_Quasar_2](./thumbnails/unthemed/kurzgesagt/Cloudy_Quasar_2.jpg)](unthemed/kurzgesagt/Cloudy_Quasar_2.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Cloudy_Quasar_2.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -651,7 +682,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 1
 
-![Contemplative_Cosmonaut_1](unthemed/kurzgesagt/Contemplative_Cosmonaut_1.png)
+[![Contemplative_Cosmonaut_1](./thumbnails/unthemed/kurzgesagt/Contemplative_Cosmonaut_1.jpg)](unthemed/kurzgesagt/Contemplative_Cosmonaut_1.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Contemplative_Cosmonaut_1.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -662,7 +694,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 2
 
-![Contemplative_Cosmonaut_2](unthemed/kurzgesagt/Contemplative_Cosmonaut_2.png)
+[![Contemplative_Cosmonaut_2](./thumbnails/unthemed/kurzgesagt/Contemplative_Cosmonaut_2.jpg)](unthemed/kurzgesagt/Contemplative_Cosmonaut_2.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Contemplative_Cosmonaut_2.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -673,7 +706,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 3
 
-![Contemplative_Cosmonaut_3](unthemed/kurzgesagt/Contemplative_Cosmonaut_3.png)
+[![Contemplative_Cosmonaut_3](./thumbnails/unthemed/kurzgesagt/Contemplative_Cosmonaut_3.jpg)](unthemed/kurzgesagt/Contemplative_Cosmonaut_3.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Contemplative_Cosmonaut_3.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -684,7 +718,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 4
 
-![Contemplative_Cosmonaut_4](unthemed/kurzgesagt/Contemplative_Cosmonaut_4.png)
+[![Contemplative_Cosmonaut_4](./thumbnails/unthemed/kurzgesagt/Contemplative_Cosmonaut_4.jpg)](unthemed/kurzgesagt/Contemplative_Cosmonaut_4.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Contemplative_Cosmonaut_4.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -695,7 +730,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cosmic Islands
 
-![Cosmic_Islands](unthemed/kurzgesagt/Cosmic_Islands.png)
+[![Cosmic_Islands](./thumbnails/unthemed/kurzgesagt/Cosmic_Islands.jpg)](unthemed/kurzgesagt/Cosmic_Islands.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Cosmic_Islands.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -706,7 +742,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Dyson Sphere
 
-![Dyson_Sphere](unthemed/kurzgesagt/Dyson_Sphere.png)
+[![Dyson_Sphere](./thumbnails/unthemed/kurzgesagt/Dyson_Sphere.jpg)](unthemed/kurzgesagt/Dyson_Sphere.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Dyson_Sphere.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -717,7 +754,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Fleet
 
-![Fleet](unthemed/kurzgesagt/Fleet.png)
+[![Fleet](./thumbnails/unthemed/kurzgesagt/Fleet.jpg)](unthemed/kurzgesagt/Fleet.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Fleet.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -728,7 +766,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxies
 
-![Galaxies](unthemed/kurzgesagt/Galaxies.png)
+[![Galaxies](./thumbnails/unthemed/kurzgesagt/Galaxies.jpg)](unthemed/kurzgesagt/Galaxies.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Galaxies.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -739,7 +778,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 1
 
-![Galaxy_1](unthemed/kurzgesagt/Galaxy_1.png)
+[![Galaxy_1](./thumbnails/unthemed/kurzgesagt/Galaxy_1.jpg)](unthemed/kurzgesagt/Galaxy_1.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Galaxy_1.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -750,7 +790,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 2
 
-![Galaxy_2](unthemed/kurzgesagt/Galaxy_2.png)
+[![Galaxy_2](./thumbnails/unthemed/kurzgesagt/Galaxy_2.jpg)](unthemed/kurzgesagt/Galaxy_2.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Galaxy_2.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -761,7 +802,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 3
 
-![Galaxy_3](unthemed/kurzgesagt/Galaxy_3.png)
+[![Galaxy_3](./thumbnails/unthemed/kurzgesagt/Galaxy_3.jpg)](unthemed/kurzgesagt/Galaxy_3.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Galaxy_3.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -772,7 +814,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Mars
 
-![Mars](unthemed/kurzgesagt/Mars.png)
+[![Mars](./thumbnails/unthemed/kurzgesagt/Mars.jpg)](unthemed/kurzgesagt/Mars.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Mars.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -783,7 +826,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### On A Moon
 
-![On_A_Moon](unthemed/kurzgesagt/On_A_Moon.png)
+[![On_A_Moon](./thumbnails/unthemed/kurzgesagt/On_A_Moon.jpg)](unthemed/kurzgesagt/On_A_Moon.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/On_A_Moon.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -794,7 +838,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Ringed Earth
 
-![Ringed_Earth](unthemed/kurzgesagt/Ringed_Earth.png)
+[![Ringed_Earth](./thumbnails/unthemed/kurzgesagt/Ringed_Earth.jpg)](unthemed/kurzgesagt/Ringed_Earth.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Ringed_Earth.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -805,7 +850,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Satellite Over Earth
 
-![Satellite_Over_Earth](unthemed/kurzgesagt/Satellite_Over_Earth.png)
+[![Satellite_Over_Earth](./thumbnails/unthemed/kurzgesagt/Satellite_Over_Earth.jpg)](unthemed/kurzgesagt/Satellite_Over_Earth.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Satellite_Over_Earth.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -816,7 +862,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Solar System
 
-![Solar_System](unthemed/kurzgesagt/Solar_System.png)
+[![Solar_System](./thumbnails/unthemed/kurzgesagt/Solar_System.jpg)](unthemed/kurzgesagt/Solar_System.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Solar_System.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -827,7 +874,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stars
 
-![Stars](unthemed/kurzgesagt/Stars.png)
+[![Stars](./thumbnails/unthemed/kurzgesagt/Stars.jpg)](unthemed/kurzgesagt/Stars.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Stars.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -838,7 +886,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stellar Phenomenon
 
-![Stellar_Phenomenon](unthemed/kurzgesagt/Stellar_Phenomenon.png)
+[![Stellar_Phenomenon](./thumbnails/unthemed/kurzgesagt/Stellar_Phenomenon.jpg)](unthemed/kurzgesagt/Stellar_Phenomenon.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Stellar_Phenomenon.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -849,7 +898,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Unknown Lifeform
 
-![Unknown_Lifeform](unthemed/kurzgesagt/Unknown_Lifeform.png)
+[![Unknown_Lifeform](./thumbnails/unthemed/kurzgesagt/Unknown_Lifeform.jpg)](unthemed/kurzgesagt/Unknown_Lifeform.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](unthemed/kurzgesagt/Unknown_Lifeform.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Categories:** `Kurzgesagt` `Space`
 - **Artist:** Kurzgesagt – In a Nutshell
@@ -860,7 +910,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Great Wave Off Kanagawa - Catppuccin Macchiato
 
-![Great_Wave_Off_Kanagawa-Catppuccin_Macchiato](catppuccin/macchiato/Great_Wave_Off_Kanagawa-Catppuccin_Macchiato.png)
+[![Great_Wave_Off_Kanagawa-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/Great_Wave_Off_Kanagawa-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/Great_Wave_Off_Kanagawa-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/Great_Wave_Off_Kanagawa-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#great-wave-off-kanagawa). All artist details can be found at the original artwork.*
@@ -869,7 +920,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Night - Catppuccin Macchiato
 
-![Night-Catppuccin_Macchiato](catppuccin/macchiato/Night-Catppuccin_Macchiato.png)
+[![Night-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/Night-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/Night-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/Night-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#night). All artist details can be found at the original artwork.*
@@ -878,7 +930,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### S P A C E - Catppuccin Macchiato
 
-![S_P_A_C_E-Catppuccin_Macchiato](catppuccin/macchiato/S_P_A_C_E-Catppuccin_Macchiato.png)
+[![S_P_A_C_E-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/S_P_A_C_E-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/S_P_A_C_E-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/S_P_A_C_E-Catppuccin_Macchiato.png).
 - **Resolution:** 5K (5120 x 2880)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#s-p-a-c-e). All artist details can be found at the original artwork.*
@@ -887,7 +940,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Alien Clouds - Catppuccin Macchiato
 
-![Alien_Clouds-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Alien_Clouds-Catppuccin_Macchiato.png)
+[![Alien_Clouds-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Alien_Clouds-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Alien_Clouds-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Alien_Clouds-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#alien-clouds). All artist details can be found at the original artwork.*
@@ -896,7 +950,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 1 - Catppuccin Macchiato
 
-![Asteroid_Miner_1-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_1-Catppuccin_Macchiato.png)
+[![Asteroid_Miner_1-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Asteroid_Miner_1-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_1-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_1-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-1). All artist details can be found at the original artwork.*
@@ -905,7 +960,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 2 - Catppuccin Macchiato
 
-![Asteroid_Miner_2-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_2-Catppuccin_Macchiato.png)
+[![Asteroid_Miner_2-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Asteroid_Miner_2-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_2-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_2-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-2). All artist details can be found at the original artwork.*
@@ -914,7 +970,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 3 - Catppuccin Macchiato
 
-![Asteroid_Miner_3-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_3-Catppuccin_Macchiato.png)
+[![Asteroid_Miner_3-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Asteroid_Miner_3-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_3-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Asteroid_Miner_3-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-3). All artist details can be found at the original artwork.*
@@ -923,7 +980,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroids - Catppuccin Macchiato
 
-![Asteroids-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Asteroids-Catppuccin_Macchiato.png)
+[![Asteroids-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Asteroids-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Asteroids-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Asteroids-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroids). All artist details can be found at the original artwork.*
@@ -932,7 +990,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Baby Star - Catppuccin Macchiato
 
-![Baby_Star-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Baby_Star-Catppuccin_Macchiato.png)
+[![Baby_Star-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Baby_Star-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Baby_Star-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Baby_Star-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#baby-star). All artist details can be found at the original artwork.*
@@ -941,7 +1000,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 1 - Catppuccin Macchiato
 
-![Black_Hole_1-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Black_Hole_1-Catppuccin_Macchiato.png)
+[![Black_Hole_1-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Black_Hole_1-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Black_Hole_1-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Black_Hole_1-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-1). All artist details can be found at the original artwork.*
@@ -950,7 +1010,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 2 - Catppuccin Macchiato
 
-![Black_Hole_2-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Black_Hole_2-Catppuccin_Macchiato.png)
+[![Black_Hole_2-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Black_Hole_2-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Black_Hole_2-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Black_Hole_2-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-2). All artist details can be found at the original artwork.*
@@ -959,7 +1020,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 3 - Catppuccin Macchiato
 
-![Black_Hole_3-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Black_Hole_3-Catppuccin_Macchiato.png)
+[![Black_Hole_3-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Black_Hole_3-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Black_Hole_3-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Black_Hole_3-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-3). All artist details can be found at the original artwork.*
@@ -968,7 +1030,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 1 - Catppuccin Macchiato
 
-![Cloudy_Quasar_1-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Macchiato.png)
+[![Cloudy_Quasar_1-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#cloudy-quasar-1). All artist details can be found at the original artwork.*
@@ -977,7 +1040,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 2 - Catppuccin Macchiato
 
-![Cloudy_Quasar_2-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Macchiato.png)
+[![Cloudy_Quasar_2-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#cloudy-quasar-3). All artist details can be found at the original artwork.*
@@ -986,7 +1050,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 1 - Catppuccin Macchiato
 
-![Contemplative_Cosmonaut_1-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Macchiato.png)
+[![Contemplative_Cosmonaut_1-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-1). All artist details can be found at the original artwork.*
@@ -995,7 +1060,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 2 - Catppuccin Macchiato
 
-![Contemplative_Cosmonaut_2-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Macchiato.png)
+[![Contemplative_Cosmonaut_2-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-2). All artist details can be found at the original artwork.*
@@ -1004,7 +1070,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 3 - Catppuccin Macchiato
 
-![Contemplative_Cosmonaut_3-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Macchiato.png)
+[![Contemplative_Cosmonaut_3-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-3). All artist details can be found at the original artwork.*
@@ -1013,7 +1080,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 4 - Catppuccin Macchiato
 
-![Contemplative_Cosmonaut_4-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Macchiato.png)
+[![Contemplative_Cosmonaut_4-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-4). All artist details can be found at the original artwork.*
@@ -1022,7 +1090,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cosmic Islands - Catppuccin Macchiato
 
-![Cosmic_Islands-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Cosmic_Islands-Catppuccin_Macchiato.png)
+[![Cosmic_Islands-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Cosmic_Islands-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Cosmic_Islands-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Cosmic_Islands-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#cosmic-islands). All artist details can be found at the original artwork.*
@@ -1031,7 +1100,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Dyson Sphere - Catppuccin Macchiato
 
-![Dyson_Sphere-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Dyson_Sphere-Catppuccin_Macchiato.png)
+[![Dyson_Sphere-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Dyson_Sphere-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Dyson_Sphere-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Dyson_Sphere-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#dyson-sphere). All artist details can be found at the original artwork.*
@@ -1040,7 +1110,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Fleet - Catppuccin Macchiato
 
-![Fleet-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Fleet-Catppuccin_Macchiato.png)
+[![Fleet-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Fleet-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Fleet-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Fleet-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#fleet). All artist details can be found at the original artwork.*
@@ -1049,7 +1120,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxies - Catppuccin Macchiato
 
-![Galaxies-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Galaxies-Catppuccin_Macchiato.png)
+[![Galaxies-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Galaxies-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Galaxies-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Galaxies-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxies). All artist details can be found at the original artwork.*
@@ -1058,7 +1130,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 1 - Catppuccin Macchiato
 
-![Galaxy_1-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Galaxy_1-Catppuccin_Macchiato.png)
+[![Galaxy_1-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Galaxy_1-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Galaxy_1-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Galaxy_1-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-1). All artist details can be found at the original artwork.*
@@ -1067,7 +1140,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 2 - Catppuccin Macchiato
 
-![Galaxy_2-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Galaxy_2-Catppuccin_Macchiato.png)
+[![Galaxy_2-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Galaxy_2-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Galaxy_2-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Galaxy_2-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-2). All artist details can be found at the original artwork.*
@@ -1076,7 +1150,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 3 - Catppuccin Macchiato
 
-![Galaxy_3-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Galaxy_3-Catppuccin_Macchiato.png)
+[![Galaxy_3-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Galaxy_3-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Galaxy_3-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Galaxy_3-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-3). All artist details can be found at the original artwork.*
@@ -1085,7 +1160,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Mars - Catppuccin Macchiato
 
-![Mars-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Mars-Catppuccin_Macchiato.png)
+[![Mars-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Mars-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Mars-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Mars-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#mars). All artist details can be found at the original artwork.*
@@ -1094,7 +1170,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### On A Moon - Catppuccin Macchiato
 
-![On_A_Moon-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/On_A_Moon-Catppuccin_Macchiato.png)
+[![On_A_Moon-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/On_A_Moon-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/On_A_Moon-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/On_A_Moon-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#on-a-moon). All artist details can be found at the original artwork.*
@@ -1103,7 +1180,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Satellite Over Earth - Catppuccin Macchiato
 
-![Satellite_Over_Earth-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Satellite_Over_Earth-Catppuccin_Macchiato.png)
+[![Satellite_Over_Earth-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Satellite_Over_Earth-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Satellite_Over_Earth-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Satellite_Over_Earth-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#satellite-over-earth). All artist details can be found at the original artwork.*
@@ -1112,7 +1190,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Solar System - Catppuccin Macchiato
 
-![Solar_System-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Solar_System-Catppuccin_Macchiato.png)
+[![Solar_System-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Solar_System-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Solar_System-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Solar_System-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#solar-system). All artist details can be found at the original artwork.*
@@ -1121,7 +1200,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stars - Catppuccin Macchiato
 
-![Stars-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Stars-Catppuccin_Macchiato.png)
+[![Stars-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Stars-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Stars-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Stars-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#stars). All artist details can be found at the original artwork.*
@@ -1130,7 +1210,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stellar Phenomenon - Catppuccin Macchiato
 
-![Stellar_Phenomenon-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Stellar_Phenomenon-Catppuccin_Macchiato.png)
+[![Stellar_Phenomenon-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Stellar_Phenomenon-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Stellar_Phenomenon-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Stellar_Phenomenon-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#stellar-phenomenon). All artist details can be found at the original artwork.*
@@ -1139,7 +1220,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Unknown Lifeform - Catppuccin Macchiato
 
-![Unknown_Lifeform-Catppuccin_Macchiato](catppuccin/macchiato/kurzgesagt/Unknown_Lifeform-Catppuccin_Macchiato.png)
+[![Unknown_Lifeform-Catppuccin_Macchiato](./thumbnails/catppuccin/macchiato/kurzgesagt/Unknown_Lifeform-Catppuccin_Macchiato.jpg)](catppuccin/macchiato/kurzgesagt/Unknown_Lifeform-Catppuccin_Macchiato.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/macchiato/kurzgesagt/Unknown_Lifeform-Catppuccin_Macchiato.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Macchiato`
 - *This wallpaper is a color-shifted version of [this original artwork](#unknown-lifeform). All artist details can be found at the original artwork.*
@@ -1148,7 +1230,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Great Wave Off Kanagawa - Catppuccin Mocha
 
-![Great_Wave_Off_Kanagawa-Catppuccin_Mocha](catppuccin/mocha/Great_Wave_Off_Kanagawa-Catppuccin_Mocha.png)
+[![Great_Wave_Off_Kanagawa-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/Great_Wave_Off_Kanagawa-Catppuccin_Mocha.jpg)](catppuccin/mocha/Great_Wave_Off_Kanagawa-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/Great_Wave_Off_Kanagawa-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#great-wave-off-kanagawa). All artist details can be found at the original artwork.*
@@ -1157,7 +1240,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Night - Catppuccin Mocha
 
-![Night-Catppuccin_Mocha](catppuccin/mocha/Night-Catppuccin_Mocha.png)
+[![Night-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/Night-Catppuccin_Mocha.jpg)](catppuccin/mocha/Night-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/Night-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#night). All artist details can be found at the original artwork.*
@@ -1166,7 +1250,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### S P A C E - Catppuccin Mocha
 
-![S_P_A_C_E-Catppuccin_Mocha](catppuccin/mocha/S_P_A_C_E-Catppuccin_Mocha.png)
+[![S_P_A_C_E-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/S_P_A_C_E-Catppuccin_Mocha.jpg)](catppuccin/mocha/S_P_A_C_E-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/S_P_A_C_E-Catppuccin_Mocha.png).
 - **Resolution:** 5K (5120 x 2880)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#s-p-a-c-e). All artist details can be found at the original artwork.*
@@ -1175,7 +1260,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Alien Clouds - Catppuccin Mocha
 
-![Alien_Clouds-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Alien_Clouds-Catppuccin_Mocha.png)
+[![Alien_Clouds-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Alien_Clouds-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Alien_Clouds-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Alien_Clouds-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#alien-clouds). All artist details can be found at the original artwork.*
@@ -1184,7 +1270,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 1 - Catppuccin Mocha
 
-![Asteroid_Miner_1-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Asteroid_Miner_1-Catppuccin_Mocha.png)
+[![Asteroid_Miner_1-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Asteroid_Miner_1-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Asteroid_Miner_1-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Asteroid_Miner_1-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-1). All artist details can be found at the original artwork.*
@@ -1193,7 +1280,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 2 - Catppuccin Mocha
 
-![Asteroid_Miner_2-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Asteroid_Miner_2-Catppuccin_Mocha.png)
+[![Asteroid_Miner_2-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Asteroid_Miner_2-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Asteroid_Miner_2-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Asteroid_Miner_2-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-2). All artist details can be found at the original artwork.*
@@ -1202,7 +1290,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 3 - Catppuccin Mocha
 
-![Asteroid_Miner_3-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Asteroid_Miner_3-Catppuccin_Mocha.png)
+[![Asteroid_Miner_3-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Asteroid_Miner_3-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Asteroid_Miner_3-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Asteroid_Miner_3-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-3). All artist details can be found at the original artwork.*
@@ -1211,7 +1300,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroids - Catppuccin Mocha
 
-![Asteroids-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Asteroids-Catppuccin_Mocha.png)
+[![Asteroids-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Asteroids-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Asteroids-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Asteroids-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroids). All artist details can be found at the original artwork.*
@@ -1220,7 +1310,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Baby Star - Catppuccin Mocha
 
-![Baby_Star-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Baby_Star-Catppuccin_Mocha.png)
+[![Baby_Star-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Baby_Star-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Baby_Star-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Baby_Star-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#baby-star). All artist details can be found at the original artwork.*
@@ -1229,7 +1320,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 1 - Catppuccin Mocha
 
-![Black_Hole_1-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Black_Hole_1-Catppuccin_Mocha.png)
+[![Black_Hole_1-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Black_Hole_1-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Black_Hole_1-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Black_Hole_1-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-1). All artist details can be found at the original artwork.*
@@ -1238,7 +1330,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 2 - Catppuccin Mocha
 
-![Black_Hole_2-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Black_Hole_2-Catppuccin_Mocha.png)
+[![Black_Hole_2-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Black_Hole_2-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Black_Hole_2-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Black_Hole_2-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-2). All artist details can be found at the original artwork.*
@@ -1247,7 +1340,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 3 - Catppuccin Mocha
 
-![Black_Hole_3-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Black_Hole_3-Catppuccin_Mocha.png)
+[![Black_Hole_3-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Black_Hole_3-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Black_Hole_3-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Black_Hole_3-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-3). All artist details can be found at the original artwork.*
@@ -1256,7 +1350,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 1 - Catppuccin Mocha
 
-![Cloudy_Quasar_1-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Mocha.png)
+[![Cloudy_Quasar_1-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Cloudy_Quasar_1-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#cloudy-quasar-1). All artist details can be found at the original artwork.*
@@ -1265,7 +1360,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 2 - Catppuccin Mocha
 
-![Cloudy_Quasar_2-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Mocha.png)
+[![Cloudy_Quasar_2-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Cloudy_Quasar_2-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#cloudy-quasar-3). All artist details can be found at the original artwork.*
@@ -1274,7 +1370,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 1 - Catppuccin Mocha
 
-![Contemplative_Cosmonaut_1-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Mocha.png)
+[![Contemplative_Cosmonaut_1-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_1-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-1). All artist details can be found at the original artwork.*
@@ -1283,7 +1380,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 2 - Catppuccin Mocha
 
-![Contemplative_Cosmonaut_2-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Mocha.png)
+[![Contemplative_Cosmonaut_2-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_2-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-2). All artist details can be found at the original artwork.*
@@ -1292,7 +1390,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 3 - Catppuccin Mocha
 
-![Contemplative_Cosmonaut_3-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Mocha.png)
+[![Contemplative_Cosmonaut_3-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_3-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-3). All artist details can be found at the original artwork.*
@@ -1301,7 +1400,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 4 - Catppuccin Mocha
 
-![Contemplative_Cosmonaut_4-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Mocha.png)
+[![Contemplative_Cosmonaut_4-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Contemplative_Cosmonaut_4-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-4). All artist details can be found at the original artwork.*
@@ -1310,7 +1410,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cosmic Islands - Catppuccin Mocha
 
-![Cosmic_Islands-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Cosmic_Islands-Catppuccin_Mocha.png)
+[![Cosmic_Islands-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Cosmic_Islands-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Cosmic_Islands-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Cosmic_Islands-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#cosmic-islands). All artist details can be found at the original artwork.*
@@ -1319,7 +1420,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Dyson Sphere - Catppuccin Mocha
 
-![Dyson_Sphere-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Dyson_Sphere-Catppuccin_Mocha.png)
+[![Dyson_Sphere-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Dyson_Sphere-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Dyson_Sphere-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Dyson_Sphere-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#dyson-sphere). All artist details can be found at the original artwork.*
@@ -1328,7 +1430,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Fleet - Catppuccin Mocha
 
-![Fleet-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Fleet-Catppuccin_Mocha.png)
+[![Fleet-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Fleet-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Fleet-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Fleet-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#fleet). All artist details can be found at the original artwork.*
@@ -1337,7 +1440,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxies - Catppuccin Mocha
 
-![Galaxies-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Galaxies-Catppuccin_Mocha.png)
+[![Galaxies-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Galaxies-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Galaxies-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Galaxies-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxies). All artist details can be found at the original artwork.*
@@ -1346,7 +1450,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 1 - Catppuccin Mocha
 
-![Galaxy_1-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Galaxy_1-Catppuccin_Mocha.png)
+[![Galaxy_1-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Galaxy_1-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Galaxy_1-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Galaxy_1-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-1). All artist details can be found at the original artwork.*
@@ -1355,7 +1460,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 2 - Catppuccin Mocha
 
-![Galaxy_2-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Galaxy_2-Catppuccin_Mocha.png)
+[![Galaxy_2-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Galaxy_2-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Galaxy_2-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Galaxy_2-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-2). All artist details can be found at the original artwork.*
@@ -1364,7 +1470,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 3 - Catppuccin Mocha
 
-![Galaxy_3-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Galaxy_3-Catppuccin_Mocha.png)
+[![Galaxy_3-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Galaxy_3-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Galaxy_3-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Galaxy_3-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-3). All artist details can be found at the original artwork.*
@@ -1373,7 +1480,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Mars - Catppuccin Mocha
 
-![Mars-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Mars-Catppuccin_Mocha.png)
+[![Mars-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Mars-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Mars-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Mars-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#mars). All artist details can be found at the original artwork.*
@@ -1382,7 +1490,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### On A Moon - Catppuccin Mocha
 
-![On_A_Moon-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/On_A_Moon-Catppuccin_Mocha.png)
+[![On_A_Moon-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/On_A_Moon-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/On_A_Moon-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/On_A_Moon-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#on-a-moon). All artist details can be found at the original artwork.*
@@ -1391,7 +1500,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Satellite Over Earth - Catppuccin Mocha
 
-![Satellite_Over_Earth-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Satellite_Over_Earth-Catppuccin_Mocha.png)
+[![Satellite_Over_Earth-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Satellite_Over_Earth-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Satellite_Over_Earth-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Satellite_Over_Earth-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#satellite-over-earth). All artist details can be found at the original artwork.*
@@ -1400,7 +1510,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Solar System - Catppuccin Mocha
 
-![Solar_System-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Solar_System-Catppuccin_Mocha.png)
+[![Solar_System-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Solar_System-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Solar_System-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Solar_System-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#solar-system). All artist details can be found at the original artwork.*
@@ -1409,7 +1520,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stars - Catppuccin Mocha
 
-![Stars-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Stars-Catppuccin_Mocha.png)
+[![Stars-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Stars-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Stars-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Stars-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#stars). All artist details can be found at the original artwork.*
@@ -1418,7 +1530,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stellar Phenomenon - Catppuccin Mocha
 
-![Stellar_Phenomenon-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Stellar_Phenomenon-Catppuccin_Mocha.png)
+[![Stellar_Phenomenon-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Stellar_Phenomenon-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Stellar_Phenomenon-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Stellar_Phenomenon-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#stellar-phenomenon). All artist details can be found at the original artwork.*
@@ -1427,7 +1540,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Unknown Lifeform - Catppuccin Mocha
 
-![Unknown_Lifeform-Catppuccin_Mocha](catppuccin/mocha/kurzgesagt/Unknown_Lifeform-Catppuccin_Mocha.png)
+[![Unknown_Lifeform-Catppuccin_Mocha](./thumbnails/catppuccin/mocha/kurzgesagt/Unknown_Lifeform-Catppuccin_Mocha.jpg)](catppuccin/mocha/kurzgesagt/Unknown_Lifeform-Catppuccin_Mocha.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](catppuccin/mocha/kurzgesagt/Unknown_Lifeform-Catppuccin_Mocha.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Catppuccin Mocha`
 - *This wallpaper is a color-shifted version of [this original artwork](#unknown-lifeform). All artist details can be found at the original artwork.*
@@ -1436,7 +1550,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Great Wave Off Kanagawa - Nord
 
-![Great_Wave_Off_Kanagawa-Nord](nord/Great_Wave_Off_Kanagawa-Nord.png)
+[![Great_Wave_Off_Kanagawa-Nord](./thumbnails/nord/Great_Wave_Off_Kanagawa-Nord.jpg)](nord/Great_Wave_Off_Kanagawa-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/Great_Wave_Off_Kanagawa-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#great-wave-off-kanagawa). All artist details can be found at the original artwork.*
@@ -1445,7 +1560,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Night - Nord
 
-![Night-Nord](nord/Night-Nord.png)
+[![Night-Nord](./thumbnails/nord/Night-Nord.jpg)](nord/Night-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/Night-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#night). All artist details can be found at the original artwork.*
@@ -1454,7 +1570,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### S P A C E - Nord
 
-![S_P_A_C_E-Nord](nord/S_P_A_C_E-Nord.png)
+[![S_P_A_C_E-Nord](./thumbnails/nord/S_P_A_C_E-Nord.jpg)](nord/S_P_A_C_E-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/S_P_A_C_E-Nord.png).
 - **Resolution:** 5K (5120 x 2880)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#s-p-a-c-e). All artist details can be found at the original artwork.*
@@ -1463,7 +1580,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Alien Clouds - Nord
 
-![Alien_Clouds-Nord](nord/kurzgesagt/Alien_Clouds-Nord.png)
+[![Alien_Clouds-Nord](./thumbnails/nord/kurzgesagt/Alien_Clouds-Nord.jpg)](nord/kurzgesagt/Alien_Clouds-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Alien_Clouds-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#alien-clouds). All artist details can be found at the original artwork.*
@@ -1472,7 +1590,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 1 - Nord
 
-![Asteroid_Miner_1-Nord](nord/kurzgesagt/Asteroid_Miner_1-Nord.png)
+[![Asteroid_Miner_1-Nord](./thumbnails/nord/kurzgesagt/Asteroid_Miner_1-Nord.jpg)](nord/kurzgesagt/Asteroid_Miner_1-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Asteroid_Miner_1-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-1). All artist details can be found at the original artwork.*
@@ -1481,7 +1600,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 2 - Nord
 
-![Asteroid_Miner_2-Nord](nord/kurzgesagt/Asteroid_Miner_2-Nord.png)
+[![Asteroid_Miner_2-Nord](./thumbnails/nord/kurzgesagt/Asteroid_Miner_2-Nord.jpg)](nord/kurzgesagt/Asteroid_Miner_2-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Asteroid_Miner_2-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-2). All artist details can be found at the original artwork.*
@@ -1490,7 +1610,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroid Miner 3 - Nord
 
-![Asteroid_Miner_3-Nord](nord/kurzgesagt/Asteroid_Miner_3-Nord.png)
+[![Asteroid_Miner_3-Nord](./thumbnails/nord/kurzgesagt/Asteroid_Miner_3-Nord.jpg)](nord/kurzgesagt/Asteroid_Miner_3-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Asteroid_Miner_3-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroid-miner-3). All artist details can be found at the original artwork.*
@@ -1499,7 +1620,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Asteroids - Nord
 
-![Asteroids-Nord](nord/kurzgesagt/Asteroids-Nord.png)
+[![Asteroids-Nord](./thumbnails/nord/kurzgesagt/Asteroids-Nord.jpg)](nord/kurzgesagt/Asteroids-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Asteroids-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#asteroids). All artist details can be found at the original artwork.*
@@ -1508,7 +1630,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Baby Star - Nord
 
-![Baby_Star-Nord](nord/kurzgesagt/Baby_Star-Nord.png)
+[![Baby_Star-Nord](./thumbnails/nord/kurzgesagt/Baby_Star-Nord.jpg)](nord/kurzgesagt/Baby_Star-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Baby_Star-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#baby-star). All artist details can be found at the original artwork.*
@@ -1517,7 +1640,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 1 - Nord
 
-![Black_Hole_1-Nord](nord/kurzgesagt/Black_Hole_1-Nord.png)
+[![Black_Hole_1-Nord](./thumbnails/nord/kurzgesagt/Black_Hole_1-Nord.jpg)](nord/kurzgesagt/Black_Hole_1-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Black_Hole_1-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-1). All artist details can be found at the original artwork.*
@@ -1526,7 +1650,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 2 - Nord
 
-![Black_Hole_2-Nord](nord/kurzgesagt/Black_Hole_2-Nord.png)
+[![Black_Hole_2-Nord](./thumbnails/nord/kurzgesagt/Black_Hole_2-Nord.jpg)](nord/kurzgesagt/Black_Hole_2-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Black_Hole_2-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-2). All artist details can be found at the original artwork.*
@@ -1535,7 +1660,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Black Hole 3 - Nord
 
-![Black_Hole_3-Nord](nord/kurzgesagt/Black_Hole_3-Nord.png)
+[![Black_Hole_3-Nord](./thumbnails/nord/kurzgesagt/Black_Hole_3-Nord.jpg)](nord/kurzgesagt/Black_Hole_3-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Black_Hole_3-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#black-hole-3). All artist details can be found at the original artwork.*
@@ -1544,7 +1670,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 1 - Nord
 
-![Cloudy_Quasar_1-Nord](nord/kurzgesagt/Cloudy_Quasar_1-Nord.png)
+[![Cloudy_Quasar_1-Nord](./thumbnails/nord/kurzgesagt/Cloudy_Quasar_1-Nord.jpg)](nord/kurzgesagt/Cloudy_Quasar_1-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Cloudy_Quasar_1-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#cloudy-quasar-1). All artist details can be found at the original artwork.*
@@ -1553,7 +1680,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cloudy Quasar 2 - Nord
 
-![Cloudy_Quasar_2-Nord](nord/kurzgesagt/Cloudy_Quasar_2-Nord.png)
+[![Cloudy_Quasar_2-Nord](./thumbnails/nord/kurzgesagt/Cloudy_Quasar_2-Nord.jpg)](nord/kurzgesagt/Cloudy_Quasar_2-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Cloudy_Quasar_2-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#cloudy-quasar-3). All artist details can be found at the original artwork.*
@@ -1562,7 +1690,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 1 - Nord
 
-![Contemplative_Cosmonaut_1-Nord](nord/kurzgesagt/Contemplative_Cosmonaut_1-Nord.png)
+[![Contemplative_Cosmonaut_1-Nord](./thumbnails/nord/kurzgesagt/Contemplative_Cosmonaut_1-Nord.jpg)](nord/kurzgesagt/Contemplative_Cosmonaut_1-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Contemplative_Cosmonaut_1-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-1). All artist details can be found at the original artwork.*
@@ -1571,7 +1700,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 2 - Nord
 
-![Contemplative_Cosmonaut_2-Nord](nord/kurzgesagt/Contemplative_Cosmonaut_2-Nord.png)
+[![Contemplative_Cosmonaut_2-Nord](./thumbnails/nord/kurzgesagt/Contemplative_Cosmonaut_2-Nord.jpg)](nord/kurzgesagt/Contemplative_Cosmonaut_2-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Contemplative_Cosmonaut_2-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-2). All artist details can be found at the original artwork.*
@@ -1580,7 +1710,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 3 - Nord
 
-![Contemplative_Cosmonaut_3-Nord](nord/kurzgesagt/Contemplative_Cosmonaut_3-Nord.png)
+[![Contemplative_Cosmonaut_3-Nord](./thumbnails/nord/kurzgesagt/Contemplative_Cosmonaut_3-Nord.jpg)](nord/kurzgesagt/Contemplative_Cosmonaut_3-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Contemplative_Cosmonaut_3-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-3). All artist details can be found at the original artwork.*
@@ -1589,7 +1720,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Contemplative Cosmonaut 4 - Nord
 
-![Contemplative_Cosmonaut_4-Nord](nord/kurzgesagt/Contemplative_Cosmonaut_4-Nord.png)
+[![Contemplative_Cosmonaut_4-Nord](./thumbnails/nord/kurzgesagt/Contemplative_Cosmonaut_4-Nord.jpg)](nord/kurzgesagt/Contemplative_Cosmonaut_4-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Contemplative_Cosmonaut_4-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#contemplative-cosmonaut-4). All artist details can be found at the original artwork.*
@@ -1598,7 +1730,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Cosmic Islands - Nord
 
-![Cosmic_Islands-Nord](nord/kurzgesagt/Cosmic_Islands-Nord.png)
+[![Cosmic_Islands-Nord](./thumbnails/nord/kurzgesagt/Cosmic_Islands-Nord.jpg)](nord/kurzgesagt/Cosmic_Islands-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Cosmic_Islands-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#cosmic-islands). All artist details can be found at the original artwork.*
@@ -1607,7 +1740,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Dyson Sphere - Nord
 
-![Dyson_Sphere-Nord](nord/kurzgesagt/Dyson_Sphere-Nord.png)
+[![Dyson_Sphere-Nord](./thumbnails/nord/kurzgesagt/Dyson_Sphere-Nord.jpg)](nord/kurzgesagt/Dyson_Sphere-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Dyson_Sphere-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#dyson-sphere). All artist details can be found at the original artwork.*
@@ -1616,7 +1750,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Fleet - Nord
 
-![Fleet-Nord](nord/kurzgesagt/Fleet-Nord.png)
+[![Fleet-Nord](./thumbnails/nord/kurzgesagt/Fleet-Nord.jpg)](nord/kurzgesagt/Fleet-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Fleet-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#fleet). All artist details can be found at the original artwork.*
@@ -1625,7 +1760,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxies - Nord
 
-![Galaxies-Nord](nord/kurzgesagt/Galaxies-Nord.png)
+[![Galaxies-Nord](./thumbnails/nord/kurzgesagt/Galaxies-Nord.jpg)](nord/kurzgesagt/Galaxies-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Galaxies-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxies). All artist details can be found at the original artwork.*
@@ -1634,7 +1770,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 1 - Nord
 
-![Galaxy_1-Nord](nord/kurzgesagt/Galaxy_1-Nord.png)
+[![Galaxy_1-Nord](./thumbnails/nord/kurzgesagt/Galaxy_1-Nord.jpg)](nord/kurzgesagt/Galaxy_1-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Galaxy_1-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-1). All artist details can be found at the original artwork.*
@@ -1643,7 +1780,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 2 - Nord
 
-![Galaxy_2-Nord](nord/kurzgesagt/Galaxy_2-Nord.png)
+[![Galaxy_2-Nord](./thumbnails/nord/kurzgesagt/Galaxy_2-Nord.jpg)](nord/kurzgesagt/Galaxy_2-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Galaxy_2-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-2). All artist details can be found at the original artwork.*
@@ -1652,7 +1790,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Galaxy 3 - Nord
 
-![Galaxy_3-Nord](nord/kurzgesagt/Galaxy_3-Nord.png)
+[![Galaxy_3-Nord](./thumbnails/nord/kurzgesagt/Galaxy_3-Nord.jpg)](nord/kurzgesagt/Galaxy_3-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Galaxy_3-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#galaxy-3). All artist details can be found at the original artwork.*
@@ -1661,7 +1800,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Mars - Nord
 
-![Mars-Nord](nord/kurzgesagt/Mars-Nord.png)
+[![Mars-Nord](./thumbnails/nord/kurzgesagt/Mars-Nord.jpg)](nord/kurzgesagt/Mars-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Mars-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#mars). All artist details can be found at the original artwork.*
@@ -1670,7 +1810,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### On A Moon - Nord
 
-![On_A_Moon-Nord](nord/kurzgesagt/On_A_Moon-Nord.png)
+[![On_A_Moon-Nord](./thumbnails/nord/kurzgesagt/On_A_Moon-Nord.jpg)](nord/kurzgesagt/On_A_Moon-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/On_A_Moon-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#on-a-moon). All artist details can be found at the original artwork.*
@@ -1679,7 +1820,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Satellite Over Earth - Nord
 
-![Satellite_Over_Earth-Nord](nord/kurzgesagt/Satellite_Over_Earth-Nord.png)
+[![Satellite_Over_Earth-Nord](./thumbnails/nord/kurzgesagt/Satellite_Over_Earth-Nord.jpg)](nord/kurzgesagt/Satellite_Over_Earth-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Satellite_Over_Earth-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#satellite-over-earth). All artist details can be found at the original artwork.*
@@ -1688,7 +1830,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Solar System - Nord
 
-![Solar_System-Nord](nord/kurzgesagt/Solar_System-Nord.png)
+[![Solar_System-Nord](./thumbnails/nord/kurzgesagt/Solar_System-Nord.jpg)](nord/kurzgesagt/Solar_System-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Solar_System-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#solar-system). All artist details can be found at the original artwork.*
@@ -1697,7 +1840,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stars - Nord
 
-![Stars-Nord](nord/kurzgesagt/Stars-Nord.png)
+[![Stars-Nord](./thumbnails/nord/kurzgesagt/Stars-Nord.jpg)](nord/kurzgesagt/Stars-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Stars-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#stars). All artist details can be found at the original artwork.*
@@ -1706,7 +1850,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Stellar Phenomenon - Nord
 
-![Stellar_Phenomenon-Nord](nord/kurzgesagt/Stellar_Phenomenon-Nord.png)
+[![Stellar_Phenomenon-Nord](./thumbnails/nord/kurzgesagt/Stellar_Phenomenon-Nord.jpg)](nord/kurzgesagt/Stellar_Phenomenon-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Stellar_Phenomenon-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#stellar-phenomenon). All artist details can be found at the original artwork.*
@@ -1715,7 +1860,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ### Unknown Lifeform - Nord
 
-![Unknown_Lifeform-Nord](nord/kurzgesagt/Unknown_Lifeform-Nord.png)
+[![Unknown_Lifeform-Nord](./thumbnails/nord/kurzgesagt/Unknown_Lifeform-Nord.jpg)](nord/kurzgesagt/Unknown_Lifeform-Nord.png)
+> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here](nord/kurzgesagt/Unknown_Lifeform-Nord.png).
 - **Resolution:** 4K (3840 x 2160)
 - **Theme:** `Nord`
 - *This wallpaper is a color-shifted version of [this original artwork](#unknown-lifeform). All artist details can be found at the original artwork.*

@@ -1,5 +1,6 @@
 import os
 import yaml
+import subprocess
 
 categories_dict = {}
 themes_dict = {}
@@ -10,6 +11,40 @@ def load_metadata():
         return yaml.safe_load(file)
 
 
+def generate_thumbnails():
+    directories = ["unthemed", "catppuccin", "nord"]
+
+    for directory in directories:
+        for root, dirs, files in os.walk(directory):
+            for file in files:
+                file_path = os.path.join(root, file)
+                base_name = os.path.splitext(file_path)[0]
+
+                if file_path.lower().endswith(".gif"):
+                    thumbnail_path = f"./thumbnails/{base_name}.gif"
+                else:
+                    thumbnail_path = f"./thumbnails/{base_name}.jpg"
+
+                if not os.path.exists(thumbnail_path):
+                    # Create the directory structure if it doesn't exist
+                    thumbnail_dir = os.path.dirname(thumbnail_path)
+                    os.makedirs(thumbnail_dir, exist_ok=True)
+
+                    subprocess.run(
+                        [
+                            "magick",
+                            file_path,
+                            "-resize",
+                            "50%",
+                            "-quality",
+                            "85",
+                            thumbnail_path,
+                        ]
+                    )
+                else:
+                    print(f"Thumbnail already exists for {file_path}")
+
+
 def generate_wallpaper_entry(wallpaper):
     # Initialize empty content variable
     content = ""
@@ -17,6 +52,14 @@ def generate_wallpaper_entry(wallpaper):
     # Get wallpaper details
     file_path = wallpaper.get("path", "")  # File path
     file_name = os.path.splitext(os.path.basename(file_path))[0]  # File name
+
+    # Thumbnail path generation
+    base_name = os.path.splitext(file_path)[0]
+    if file_path.lower().endswith(".gif"):
+        thumbnail_path = f"./thumbnails/{base_name}.gif"
+    else:
+        thumbnail_path = f"./thumbnails/{base_name}.jpg"
+
     resolution = wallpaper.get("resolution", "")  # Resolution
     theme = wallpaper.get("theme")  # Theme
     categories = wallpaper.get("categories", [])  # Categories
@@ -41,7 +84,10 @@ def generate_wallpaper_entry(wallpaper):
     content += f"### {display_name}\n\n"
 
     # Insert image
-    content += f"![{file_name}]({file_path})\n"
+    content += f"[![{file_name}]({thumbnail_path})]({file_path})\n"
+
+    # Insert thumbnail warning
+    content += f"> **Note:** The above image is a thumbnail and is not full resolution. The full version can be downloaded [here]({file_path}).\n"
 
     # Resolution entry
     if resolution and resolution.strip():
@@ -151,8 +197,6 @@ def generate_readme():
     readme_content = """# Wallpapers
 My personal collection of wallpapers, with as many credited artists as possible, and ***NO AI ART***
 
-**Sorry for the current slow speed of loading images on the README! Working on a small downscaling script! :3**
-
 ---
 
 > **This Readme is auto-generated from `wallpaper_metadata.yml`. You can view the generator code in `scripts/MarkdownGenerator.py`**
@@ -246,5 +290,6 @@ def check_missing():
 
 
 if __name__ == "__main__":
+    generate_thumbnails()
     generate_readme()
     check_missing()
