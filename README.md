@@ -19,7 +19,9 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ## Categories
 
-<details><summary>Kurzgesagt (Click to Expand)</summary>
+> **Hint:** Click on the category name to expand/collapse the lists.
+
+<details><summary>Kurzgesagt</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -55,7 +57,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Space (Click to Expand)</summary>
+<details><summary>Space</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -93,7 +95,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Pixel Art (Click to Expand)</summary>
+<details><summary>Pixel Art</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -102,7 +104,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Scenery (Click to Expand)</summary>
+<details><summary>Scenery</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -127,7 +129,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Night (Click to Expand)</summary>
+<details><summary>Night</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -140,7 +142,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Stars (Click to Expand)</summary>
+<details><summary>Stars</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -150,7 +152,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 </details>
 
-<details><summary>Studio Ghibli (Click to Expand)</summary>
+<details><summary>Studio Ghibli</summary>
 
 | Preview | Wallpaper |
 |---------|-----------|
@@ -168,6 +170,8 @@ My personal collection of wallpapers, with as many credited artists as possible,
 </details>
 
 ## Themes
+
+> **Hint:** Click on the theme name to expand/collapse the lists.
 
 <details><summary>Catppuccin Mocha</summary>
 

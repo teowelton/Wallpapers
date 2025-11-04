@@ -185,11 +185,12 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
     # Generate category section
     category_content = "## Categories\n\n"
+    category_content += (
+        "> **Hint:** Click on the category name to expand/collapse the lists.\n\n"
+    )
     for category, entries in categories_dict.items():
         if entries:  # Only include categories with entries
-            category_content += (
-                f"<details><summary>{category} (Click to Expand)</summary>\n\n"
-            )
+            category_content += f"<details><summary>{category}</summary>\n\n"
             category_content += "| Preview | Wallpaper |\n"
             category_content += "|---------|-----------|\n"
             for entry in entries:
@@ -199,6 +200,9 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
     # Generate themes section
     theme_content = "## Themes\n\n"
+    theme_content += (
+        "> **Hint:** Click on the theme name to expand/collapse the lists.\n\n"
+    )
     for theme, entries in themes_dict.items():
         if entries:  # Only include themes with entries
             theme_content += f"<details><summary>{theme}</summary>\n\n"
