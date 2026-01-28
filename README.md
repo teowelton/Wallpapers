@@ -110,11 +110,13 @@ My personal collection of wallpapers, with as many credited artists as possible,
 |---------|-----------|
 | ![Eternity](unthemed/Eternity.png) | [Eternity (Click for Details)](#eternity) |
 | ![Great Wave Off Kanagawa](unthemed/Great_Wave_Off_Kanagawa.png) | [Great Wave Off Kanagawa (Click for Details)](#great-wave-off-kanagawa) |
+| ![Japanese Flooded City](unthemed/Japanese_Flooded_City.png) | [Japanese Flooded City (Click for Details)](#japanese-flooded-city) |
 | ![Japanese Lofi](unthemed/Japanese_Lofi.png) | [Japanese Lofi (Click for Details)](#japanese-lofi) |
 | ![Mellow Dreams 3](unthemed/Mellow_Dreams_3.png) | [Mellow Dreams 3 (Click for Details)](#mellow-dreams-3) |
 | ![Midnight Gazing](unthemed/Midnight_Gazing.png) | [Midnight Gazing (Click for Details)](#midnight-gazing) |
 | ![Night](unthemed/Night.png) | [Night (Click for Details)](#night) |
 | ![Rooftop](unthemed/Rooftop.gif) | [Rooftop (Click for Details)](#rooftop) |
+| ![Solarpunk Rooftop Farm](unthemed/Solarpunk_Rooftop_Farm.png) | [Solarpunk Rooftop Farm (Click for Details)](#solarpunk-rooftop-farm) |
 | ![Sound Asleep](unthemed/Sound_Asleep.png) | [Sound Asleep (Click for Details)](#sound-asleep) |
 | ![Stardust](unthemed/Stardust.png) | [Stardust (Click for Details)](#stardust) |
 | ![Summer Nights](unthemed/Summer_Nights.png) | [Summer Nights (Click for Details)](#summer-nights) |
@@ -313,6 +315,17 @@ My personal collection of wallpapers, with as many credited artists as possible,
 
 ---
 
+### Japanese Flooded City
+
+![Japanese_Flooded_City](unthemed/Japanese_Flooded_City.png)
+- **Resolution:** 3500 x 1750
+- **Categories:** `Scenery`
+- **Artist:** Jessica Woulfe
+	- **Profile Links:** [*Instagram*](https://www.instagram.com/jessicawoulfe/?hl=en) | [*ArtStation*](https://www.artstation.com/jessicawoulfe)
+- **Source:** [artstation.com](https://www.artstation.com/artwork/OG3GEb)
+
+---
+
 ### Japanese Lofi
 
 ![Japanese_Lofi](unthemed/Japanese_Lofi.png)
@@ -376,6 +389,17 @@ My personal collection of wallpapers, with as many credited artists as possible,
 - **Artist:** Nibroo
 	- **Profile Links:** [*Reddit*](https://www.reddit.com/user/Nibroo/)
 - **Source:** [reddit.com](https://www.reddit.com/r/wallpaper/comments/hea55o/s_p_a_c_e_5120x2880/)
+
+---
+
+### Solarpunk Rooftop Farm
+
+![Solarpunk_Rooftop_Farm](unthemed/Solarpunk_Rooftop_Farm.png)
+- **Resolution:** 3800 x 1900
+- **Categories:** `Scenery`
+- **Artist:** Jessica Woulfe
+	- **Profile Links:** [*Instagram*](https://www.instagram.com/jessicawoulfe/?hl=en) | [*ArtStation*](https://www.artstation.com/jessicawoulfe)
+- **Source:** [artstation.com](https://www.artstation.com/artwork/9NJ28q)
 
 ---
 
