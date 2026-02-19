@@ -101,6 +101,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 |---------|-----------|
 | ![Night](unthemed/Night.png) | [Night (Click for Details)](#night) |
 | ![Rooftop](unthemed/Rooftop.gif) | [Rooftop (Click for Details)](#rooftop) |
+| ![View Over Japanese Valley in Autumn](unthemed/View_Over_Japanese_Valley_in_Autumn.gif) | [View Over Japanese Valley in Autumn (Click for Details)](#view-over-japanese-valley-in-autumn) |
 
 </details>
 
@@ -120,6 +121,7 @@ My personal collection of wallpapers, with as many credited artists as possible,
 | ![Sound Asleep](unthemed/Sound_Asleep.png) | [Sound Asleep (Click for Details)](#sound-asleep) |
 | ![Stardust](unthemed/Stardust.png) | [Stardust (Click for Details)](#stardust) |
 | ![Summer Nights](unthemed/Summer_Nights.png) | [Summer Nights (Click for Details)](#summer-nights) |
+| ![View Over Japanese Valley in Autumn](unthemed/View_Over_Japanese_Valley_in_Autumn.gif) | [View Over Japanese Valley in Autumn (Click for Details)](#view-over-japanese-valley-in-autumn) |
 | ![Wondering](unthemed/Wondering.png) | [Wondering (Click for Details)](#wondering) |
 | ![Arrietty](unthemed/ghibli/Arrietty.png) | [Arrietty (Click for Details)](#arrietty) |
 | ![Castle in the Sky Laputa](unthemed/ghibli/Castle_in_the_Sky_Laputa.png) | [Castle in the Sky Laputa (Click for Details)](#castle-in-the-sky-laputa) |
@@ -433,6 +435,17 @@ My personal collection of wallpapers, with as many credited artists as possible,
 - **Artist:** Denis Istomin
 	- **Profile Links:** [*Twitter*](https://twitter.com/Denis_Istomin_) | [*Instagram*](https://www.instagram.com/istomin__denis/) | [*ArtStation*](https://www.artstation.com/istomin_denis) | [*DeviantArt*](https://www.deviantart.com/gydw1n)
 - **Source:** [x.com](https://x.com/lofigirl/status/1282077431126470659)
+
+---
+
+### View Over Japanese Valley in Autumn
+
+![View_Over_Japanese_Valley_in_Autumn](unthemed/View_Over_Japanese_Valley_in_Autumn.gif)
+- **Resolution:** 4096 x 2303
+- **Categories:** `Scenery` `Pixel Art`
+- **Artist:** Lennart Butz
+	- **Profile Links:** [*Twitter*](https://x.com/lennsan_) | [*ArtStation*](https://www.artstation.com/lennartbutz)
+- **Source:** [artstation.com](https://www.artstation.com/artwork/L21QKA)
 
 ---
 

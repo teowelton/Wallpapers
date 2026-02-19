@@ -146,6 +146,15 @@ wallpapers:
               deviant_art: "https://www.deviantart.com/gydw1n"
               art_station: "https://www.artstation.com/istomin_denis"
       source: "https://x.com/lofigirl/status/1282077431126470659"
+    - path: "unthemed/View_Over_Japanese_Valley_in_Autumn.gif"
+      resolution: "4096 x 2303"
+      categories: ["Scenery", "Pixel Art"]
+      artist:
+          name: "Lennart Butz"
+          profile_links:
+              twitter: "https://x.com/lennsan_"
+              art_station: "https://www.artstation.com/lennartbutz"
+      source: "https://www.artstation.com/artwork/L21QKA"
     - path: "unthemed/Wondering.png"
       resolution: "4096 x 2303"
       categories: ["Scenery", "Night"]
